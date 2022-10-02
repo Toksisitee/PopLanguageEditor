@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 using System.Windows;
+using System.Windows.Input;
 using Microsoft.Win32;
 
 namespace PopLanguageEditor
@@ -155,14 +156,19 @@ namespace PopLanguageEditor
             }
         }
 
-        private void menu_Open(object sender, RoutedEventArgs e)
+        private void OpenLangauge()
         {
             OpenFileDialog dlg = new OpenFileDialog();
             if (dlg.ShowDialog() == true)
                 LoadLanguageFile(dlg.FileName);
         }
 
-        private void menu_Save(object sender, RoutedEventArgs e)
+        private void menu_Open(object sender, RoutedEventArgs e)
+        {
+            OpenLangauge();
+        }
+
+        private void SaveLanguage()
         {
             SaveFileDialog dlg = new SaveFileDialog();
             dlg.Filter = "Data File (*.dat)|*.dat";
@@ -182,6 +188,11 @@ namespace PopLanguageEditor
                 }
                 file.Close();
             }
+        }
+
+        private void menu_Save(object sender, RoutedEventArgs e)
+        {
+            SaveLanguage();
         }
 
         private void menu_Exit(object sender, RoutedEventArgs e)
@@ -382,6 +393,16 @@ namespace PopLanguageEditor
                 FilterOnlyIDs();
                 return;
             }
+        }
+
+        private void OpenCommand_Executed(object sender, ExecutedRoutedEventArgs e)
+        {
+            OpenLangauge();
+        }
+
+        private void SaveCommand_Executed(object sender, ExecutedRoutedEventArgs e)
+        {
+            SaveLanguage();
         }
 
         private void About_Click(object sender, RoutedEventArgs e)
