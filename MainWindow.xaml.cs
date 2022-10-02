@@ -130,7 +130,13 @@ namespace PopLanguageEditor
             List<LangCache> cache = LoadCache();
             for (int i = 0; i < lines.Count; i++)
             {
-                data.Add(new LangEntry { Line=i, ID=cache[i].ID, Text=lines[i], Original=cache[i].Text });
+                // Langauge files can contain additional entries beyond the expected size (e.g. beta version),
+                // while LangCache was generated based on the original English lang file.
+                // We need this check to avoid OOB crashes. 
+                if (i >= cache.Count)
+                    data.Add(new LangEntry { Line=i, ID=-1, Text=lines[i], Original="" });
+                else
+                    data.Add(new LangEntry { Line=i, ID=cache[i].ID, Text=lines[i], Original=cache[i].Text });
             }
 
             //CreateCache(ref lines);
