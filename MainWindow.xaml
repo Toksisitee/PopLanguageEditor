@@ -33,6 +33,11 @@
                             <Image Source="icon-save.ico"/>
                         </MenuItem.Icon>
                     </MenuItem>
+                    <MenuItem Header="Export" Click="menu_Export">
+                        <MenuItem.Icon>
+                            <Image Source="icon-save.ico"/> 
+                        </MenuItem.Icon>
+                    </MenuItem>
                     <Separator />
                     <MenuItem Header="Exit" Click="menu_Exit">
                         <MenuItem.Icon>

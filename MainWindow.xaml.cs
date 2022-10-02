@@ -201,6 +201,25 @@ namespace PopLanguageEditor
             SaveLanguage();
         }
 
+        private void menu_Export(object sender, RoutedEventArgs e)
+        {
+            SaveFileDialog dlg = new SaveFileDialog();
+            dlg.Filter = "Text File (*.txt)|*.txt";
+            dlg.DefaultExt = "txt";
+            dlg.AddExtension = true;
+            if (dlg.ShowDialog() == true)
+            {
+                string filename = dlg.FileName;
+                if (File.Exists(filename)) File.Delete(filename);
+                using StreamWriter file = new StreamWriter(filename);
+                foreach (LangEntry entry in Language)
+                {
+                    file.WriteLine(entry.Text);
+                }
+                file.Close();
+            }
+        }
+
         private void menu_Exit(object sender, RoutedEventArgs e)
         {
             Application.Current.Shutdown();
