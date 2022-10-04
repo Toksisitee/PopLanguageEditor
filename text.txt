@@ -1,0 +1,1318 @@
+shift
+control
+alt
+press
+hold
+release
+End of game playback
+Memory allocation failed - not enough memory.
+Show Attack Areas
+No Draw
+No Sprites Draw
+Pause On Out Of Sync
+No Texture Mapping
+No Poly Draw
+No Objects Draw
+Plan View Hide Enemy People
+Plan View Hide Enemy Buildings
+Scroll Momentum
+Scroll Momentum Amount
+Texture Map Size
+Ambient Light
+Point Lights
+Ambient Shadows
+Point Shadows
+Check Mapwho Integrity
+Scaling Sprites Always
+No Formations
+Show Formation Points
+Frame Limit Min Ticks
+Computer Player Off 
+People Panel 
+No Jan Navigation
+Full Map Sync Check
+Show JNav Points 
+Computer JNav Work Path Len 
+Human JNav Work Path Len 
+Computer JNav Calls Per Frame
+Human JNav Calls Per Frame
+Auto Guarding Off 
+Blow Damage Off 
+Auto Camera On 
+Island Level
+Local Drag Select Off
+Continuous Raise/Lower
+Allow cursor snap
+JNav Max Count
+Auto Use Vehicles
+Show Flat Areas Darkened
+EOG Landscape Spell FX
+Game turns per second
+Draw turns per second
+Texture Filtering
+Use 32x32 HiRes Textures
+Specular Shading
+Polygon Antialiasing
+Show Wood Search Data
+Turns Per Second
+Use Building Entrance Alt
+Filtered Texture Coordinate Adjustment
+Non-filtered Texture Coordinate Adjustment
+Auto Camera Adjust
+Lens Flare
+Panel Sound Effects Off
+Human Shaman Omnipresence
+Messages Off
+Cheat More Mana
+Cheat Max Mana
+Cheat Enabled
+Cheat Disabled
+Cheat Free Spells
+Cheat All Spells  
+Cheat All Buildings 
+Camera Zoom On
+Sea On
+Animating Water
+Owned Target Select
+NO_ACTION
+UP
+DOWN
+LEFT
+RIGHT
+ROTATE_LEFT
+ROTATE_RIGHT
+PAUSE
+TOGGLE_VIEW
+TOGGLE_ENCYCLOPAEDIA
+SET_MAP_MARKER_1
+SET_MAP_MARKER_2
+SET_MAP_MARKER_3
+SET_MAP_MARKER_4
+GOTO_MAP_MARKER_1
+GOTO_MAP_MARKER_2
+GOTO_MAP_MARKER_3
+GOTO_MAP_MARKER_4
+SET_VIEW_1
+SET_VIEW_2
+SET_VIEW_3
+SET_VIEW_4
+ZOOM_VIEW_IN
+ZOOM_VIEW_OUT
+QUICK_LOAD
+QUICK_SAVE
+ZOOM_TO_SHAMAN
+COMMAND_TRACKING
+RELEASE_GUARDING_PEOPLE
+TOGGLE_LEVEL_STATISTICS
+REMOVE_BUILDING_MARKER
+REMOVE_GUARD_POST
+ROTATE_BUILDING_MARKER
+ASSIGN_PEOPLE_TO_GROUP_1
+ASSIGN_PEOPLE_TO_GROUP_2
+ASSIGN_PEOPLE_TO_GROUP_3
+ASSIGN_PEOPLE_TO_GROUP_4
+SELECT_PEOPLE_IN_GROUP_1
+SELECT_PEOPLE_IN_GROUP_2
+SELECT_PEOPLE_IN_GROUP_3
+SELECT_PEOPLE_IN_GROUP_4
+ZOOM_TO_PEOPLE_IN_GROUP_1
+ZOOM_TO_PEOPLE_IN_GROUP_2
+ZOOM_TO_PEOPLE_IN_GROUP_3
+ZOOM_TO_PEOPLE_IN_GROUP_4
+ZOOM_TO_REINCARNATION_SITE
+TOGGLE_LOCAL_SELECTION
+RESELECT_LAST_GROUP
+REORIENT_VIEW
+DISPLAY_LAST_DIALOG
+CHAT_MESSAGE
+TOGGLE_AUTO_DESELECT
+Scrolling Tooltips
+Auto Deselect
+Swap Rotate/Move
+XXX_XXX_XXX_XXX_XXX_XXX_XXX_XXX_
+XXX_XXX_XXX_XXX_XXX_XXX_XXX_XXX_
+XXX_XXX_XXX_XXX_XXX_XXX_XXX_XXX_
+XXX_XXX_XXX_XXX_XXX_XXX_XXX_XXX_
+XXX_XXX_XXX_XXX_XXX_XXX_XXX_XXX_
+XXX_XXX_XXX_XXX_XXX_XXX_XXX_XXX_
+XXX_XXX_XXX_XXX_XXX_XXX_XXX_XXX_
+XXX_XXX_XXX_XXX_XXX_XXX_XXX_XXX_
+keypad asterisk
+space bar
+keypad 7
+keypad 8
+keypad 9
+keypad -
+keypad 4
+keypad 5
+keypad 6
+keypad +
+keypad 1
+keypad 2
+keypad 3
+keypad 0
+keypad .
+Enter
+keypad /
+print scrn
+break
+no_key
+left_control
+left_shift
+right_shift
+left_alt
+caps_lock
+f1
+f2
+backspace
+tab
+f3
+home
+f4
+return
+f5
+f6
+f7
+f8
+f9
+f10
+num_lock
+scroll_lock
+f11
+f12
+enter
+right_control
+print_screen
+escape
+right_alt
+up
+pageup
+left
+right
+end
+down
+pagedown
+insert
+delete
+left_win95
+right_win95
+win95_menu
+mouse_left
+mouse_middle
+mouse_right
+pause
+Gary Stead
+EVERYTHING
+Scatter People
+ASSIGN_PEOPLE_TO_GROUP_5
+ASSIGN_PEOPLE_TO_GROUP_6
+SELECT_PEOPLE_IN_GROUP_5
+SELECT_PEOPLE_IN_GROUP_6
+ZOOM_TO_PEOPLE_IN_GROUP_5
+ZOOM_TO_PEOPLE_IN_GROUP_6
+CALL TO ARMS
+Maintain Minimum Population
+Language
+English
+Français
+Deutsch
+Italiano
+Español
+Svenska
+Dutch
+Polish
+Russian
+Streamed Music
+Streamed Track
+Next Tip
+OK
+Failed
+Quick Load
+Quick Save
+Paused
+Game Speed
+On
+Off
+Yes
+No
+Quitting Network
+Quitting
+Generating Level
+Sync Checking
+Out Of Sync
+View Number
+Network Quick Load
+Network Quick Save
+Sound
+Music
+Sky On
+Level Complete
+Level Failed
+Press Space Bar
+Quit Game
+Sure
+Sound Volume
+Music Volume
+HiRes Textures Off
+Footsteps
+CD track
+DirectPlay IPX
+IPX
+Serial
+Modem
+IP
+Fog Of War
+Auto Quick Save
+High
+Low
+Port
+Populous: The Beginning
+OK
+Don't Show Tips Again
+Flyby mode
+Armageddon
+Tooltips
+Lag or Lost Connection
+Disconnect in
+Retry
+Waiting for network players...
+Save
+Exit
+Address Book
+Empty
+Individual Players:
+All Players:
+(No Name)
+(Empty)
+Call To Arms
+Player
+Forge World
+Software © 1998 Bullfrog Productions Ltd. Bullfrog, the Bullfrog logo, Fog of War and Populous, are trademarks or registered trademarks of Bullfrog Productions Ltd. in the United States and/or other countries. Bullfrog is an Electronic Arts company. Electronic Arts and the Electronic Arts logo are trademarks or registered trademarks of Electronic Arts in the United States and/or other countries. All rights reserved.
+Microsoft and Windows are either trademarks or registered trademarks of Microsoft Corporation in the U.S. and/or other countries.
+QSound and the Q Logo are registered trademarks of QSound Labs, Inc.
+%s has allied with %s
+%s has broken an alliance with %s
+%s needs to left-click Ready for the game to start.
+%s does not have that level.
+Dakini
+Matak
+Chumara
+Tutorial
+Load Game
+Save Game
+Last Quicksave
+Continue Game
+Play on Internet Matchup Service
+Main Menu
+Single Player
+Multiplayer
+Quit
+New Game
+Load Game
+Save Game
+Single Level
+Tutorial
+Choose Service
+No multiplayer services available
+Choose a game
+New Game
+Start
+Record
+Playback
+Load Menu
+Load
+Delete
+Save Menu
+Single Level Menu
+Options
+Options Menu
+Back
+OK
+Cancel
+None
+Look For Sessions
+Landscape Detail
+Rolling Demo
+Game Name
+Password
+Quicksave 1
+Quicksave 2
+Players
+Name
+IP Address
+Dial and Connect
+Settings
+Serial Settings
+(Empty)
+Toggle Level List
+Toggle Restrictions
+Blast
+Convert
+Magical Shield
+Ghost Army
+Swarm
+Invisibility
+Landbridge
+Lightning
+Hypnotise
+Bloodlust
+Teleport
+Tornado
+Swamp
+Flatten
+Earthquake
+Erode
+Firestorm
+Angel Of Death
+Volcano
+Armageddon
+Hut
+Guard Tower
+Warrior Training Hut
+Temple
+Spy Training Hut
+Firewarrior Training Hut
+Boat House
+Balloon Hut
+Guard Post
+Guest Spells
+Random
+Fog of War
+Gameplay Feature
+Availability
+Allies
+Good
+Evil
+Ping
+Ready?
+Neutral
+Shaman
+1
+4
+10
+Infinite
+Game
+Sound
+Graphics
+Reduce Screen
+Sky
+Quick Defaults
+Low
+Medium
+High
+Direct3D Options
+Device Selection
+Primary
+Secondary
+3DFX Voodoo 1/2
+Colour Palette
+High Colour
+True Colour
+Anti-Aliasing
+Sky Detail
+Filtering
+Off
+Bilinear
+Trilinear
+Anisotropic
+Tooltips
+Define Keys
+Config 1
+Config 2
+Config 3
+Config 4
+Cursor Keys Scroll
+People Stay Selected
+Rotation
+Cursor
+Control Cursor
+Flip Rotation
+Stay Selected
+Autocast Spell
+Quit to Main Menu
+Expanded
+Scrolling
+Restart Level
+Start Mana
+Off
+25%
+50%
+75%
+Forge World
+Restrictions
+Level List
+Select Level
+Reset
+Credits
+Force 640x480
+Coming Soon
+CD Music
+Audio Options
+Detail Options
+Music Type
+Pause
+Options
+Screen Resolution
+Create New Game
+Join Game
+None
+Odd
+Even
+Mark
+None
+DTR
+RTS/DTR
+RTS
+Software Flow (XON/XOFF)
+1 Stop Bit
+1.5 Stop Bits
+2 Stop Bits
+Remote IP Address
+Phone Number
+Com Port
+Baud Rate
+Parity
+Flow Control
+Stop Bits
+No Modems Available
+No Sessions Available
+Not Connected
+Creating Session
+Looking for Sessions
+Connecting to Session
+Connected
+Starting Session
+Session Name
+Player Name
+Chat Message
+Level
+Local Machine Name
+Local IP Address
+Network dropout, quitting
+Gamma Correction
+No level
+Failed to create session
+Failed to open port
+Failed to join session
+Session could not be found
+Your IP Address
+Creating session
+Joining session
+No session found
+Looking up
+Could not resolve
+Network error
+Search
+Ping Addresses
+No modem installed
+Could not connect
+Could not connect. Check settings.
+No dial tone
+No answer
+Disconnected
+Line busy
+Accepting call
+Missing or incomplete Registry information. Use c:\pop3.cd as default hard drive path?
+Loading...
+Populous: The Beginning can only run under a Windows 95 compliant operating system (e.g. Windows 95, Windows 98)
+Populous: The Beginning requires DirectX 6.0 (or later) to be installed. There is an option to do so when installing Populous.
+Populous: The Beginning is already running. Dismiss this dialog box then use Alt-Tab to switch tasks.
+As this is your first time playing Populous: The Beginning, we recommended that you follow the Tutorial which teaches you how to play the game. Do you want to start the Tutorial now?
+Your video card does have enough memory to support the selected resolution. Instead, the nearest resolution it can handle has been selected. 
+There was a problem initialising Direct3D (Error message: %s).
+Memory has been exhausted. This is usually due to low hard disk space.
+Your 3D device does have enough memory to support the lowest available resolution. Please consult the Reference Card.
+A 3D device with the required capabilities could not be found. If you do have one, please consult the Troubleshooting section of the Reference Card. Otherwise, run the software version of Populous: The Beginning.
+Welcome to Populous: The Beginning. You can leave this Tutorial and return to the Main Menu by pressing the Escape key and choosing Quit to Main Menu.
+You can move around the world by pressing the cursor keys or by moving your mouse pointer to the sides of the screen.
+You can rotate the world to view it at any angle by pressing the left and right Cursor Keys. This can be very useful for discovering hidden places.
+To view the entire world, press the Return key.
+You are now in the World View. Use the Cursor Keys to rotate the world and right-click anywhere or press Return to zoom back to the land.
+Pressing F1 at any point will bring up the in-game Encyclopaedia.
+To return to the Shaman, move your mouse pointer to the Shaman box on the Control Panel and right-click.
+You are the Shaman. Your destiny is to become a god by defeating all who oppose you. As long as your people live, you can use your Mana to guide your spirit back to the world and return to life on the Reincarnation Site. If none of your people remain, you will be banished forever.
+Worshipping Totem Poles or Obelisks benefit you in a variety of ways. To command the Shaman to worship an Obelisk, select the Shaman and left-click on the Obelisk.
+Left-click on the message tab at the bottom-right of the Control Panel to read a message again. Shift right-click on a message tab to delete it.
+Now move on to the advanced tutorial. Worship at an Obelisk to go to a new section of the tutorial.
+Select the Lightning Spell from the panel on the left. Move the mouse pointer over the Enemy Guard Tower on the island and left-click to fire the spell at it. The Shaman will walk into range before casting the spell.
+You have run out of Blast spells. You'll have to wait for one to charge up again.
+The last Brave is slightly out of your current spell range. However, the higher you are, the further your spells will reach. Command the Shaman to enter the Guard Tower to give you the height you need.
+Congratulations! You've killed all the Braves.
+Worship this Obelisk to finish the spell casting section of the tutorial.
+Stone Heads grant you temporary gifts. To command the Shaman to worship this Stone Head, select her and left-click on it.
+Congratulations, you've destroyed the Guard Tower!
+You've received another Lightning spell.
+Pray at this Totem Pole to trigger a Landbridge.
+Worshipping Vaults of Knowledge will provide you with new spells and building Plans. To command the Shaman to worship the Vault of Knowledge, select her and left-click on it.
+Select the Blast spell from the Spells Panel on the left. Move the mouse pointer over the Enemy Braves standing on the islands and left-click to blast them.
+This is one of your tribesmen, the Brave. He is your basic Follower and a weak fighter. However, only Braves can construct buildings.
+Move your mouse to the Buildings Panel and select the flashing Hut icon. When you move your mouse over the land, you will see that you are holding a Plan.  Move the Plan next to the other Huts and left-click to place it down. The arrow on the Plan indicates the entrance of the Hut. Rotate the Plan by pressing the Space Bar.
+Now that you have placed down the Hut Plan, select your Braves and left-click on the Plan. They will start preparing the foundations and collecting wood for construction.
+You haven't assigned any Braves to build on the Plan! Nearby idle Braves will automatically build after a short while.
+Now build another Hut for your Braves to live in.
+When placed in Huts, Braves generate more Mana for you and breed to increase the size of your tribe. Select your Braves and left-click on the building to put them in.
+The people in this Hut are producing Mana. A full Hut breeds new Followers more quickly than an empty one.  
+You haven't assigned Braves to enter your Huts. After a while, any idle Braves outside a Hut will enter it to rest without being ordered to.
+Right-click on the Hut to find out who is occupying it. Full Huts are upgraded over time, increasing their capacity to a maximum of five Followers.
+Worship this Obelisk to finish the building section of the tutorial.
+Each Hut you build increases your maximum population by three.
+Congratulations. You've completed the tutorial. Press the Escape key to return to the Main Menu.
+Move your mouse pointer over your Brave and left-click to select him. Then, move your mouse pointer over the Enemy Brave and left-click to attack him.
+Congratulations, you have defeated the Enemy Brave!
+This time the Enemy has defeated your Brave.
+This is a Warrior. He is much better at fighting than the Brave but he cannot build. Close by are some Enemy Braves. Command your Warrior to attack them.
+Congratulations! You have defeated the Enemy. They are no match for your Warrior's sword!
+This is a Preacher. He can convert Enemy Followers to your cause. Command your Preacher to attack the Enemy Warriors. He will stop them and use his chants to convert them to your tribe. Do not disturb your Preacher while he preaches to the Enemy.
+Congratulations. You have turned the Enemy Warriors into loyal Followers!
+Worship this Obelisk to finish the fighting section of the tutorial.
+Left-click on the Shaman directly to select her, or left-click on the Shaman Box on the Control Panel. Right-click when you want to deselect her.
+Braves sent to a Warrior Training Hut become Warriors. Training uses Mana. Try training two Warriors.
+This time the Enemy has defeated your Warrior.
+This time, the Enemy has defeated your Preacher.
+Try again, but this time don't disturb your Preacher until he's converted all the Enemy Warriors to your tribe.
+Well done. You have completed the Tutorial. Now press the Escape Key and Quit to the Main Menu. Select New Game to play the first level.
+Well done. You have completed the Tutorial. Now left-click on OK to exit to the Main Menu. Select New Game to play the first level.
+This icon has been disabled for the tutorial. Normally, it would tell your followers to dismantle the building.
+You can rotate the world to view it at any angle by holding down Ctrl and pressing the left and right Cursor Keys. This can be very useful for discovering hidden places.
+You don't have enough Mana to cast this spell. You will need to wait for it to charge.
+You don't have any shots left of this Single Shot Spell.
+You cannot cast a spell on an Enemy Reincarnation Site. All Reincarnation Sites are sanctified.
+Can't Build, Too Far: Your Plan is too far from other buildings. Try building a Guard Tower to start a new settlement.
+Can't Build, Too Close: Your Plan is too close to other buildings. Try moving it further away.
+Can't Build, Water: You cannot place a Plan on water.
+Can't Build, Coast: You cannot place a Plan this close to the water.
+Can't Build, Reincarnation Site: You cannot place a Plan inside the Reincarnation Site.
+Can't Build, Damaged Land: The land has been damaged and you cannot place your Plan down. After a while, the land will become fertile again.
+Can't Build, Too Steep: The ground here isn't flat enough to build on. You will need to find another site.
+Can't Build, Obstacle: You can't place down a Plan because there is something in your way.
+You don't have enough Mana to cast that spell. You will need to wait for it to charge up first.
+Well Done! You have killed the Enemy Shaman and gained some of her Mana.
+This world is unknown to you, Shaman. You need to explore and disperse the fog to see the enemy.
+Can't Build, Fog of War: You cannot build over the fog because it hasn't been explored yet.
+You have reached the maximum size of your tribe and your Huts cannot breed any more Braves.
+You have cast this spell out of its range. Try walking closer to the target.
+The Shaman has been killed but, provided you have some Followers left, she will be reincarnated on the Reincarnation Site.
+Be careful, Shaman, you are dismantling that building! Left-click on the Dismantle Building icon again to stop.
+One of your buildings has been destroyed, Shaman. The land where it stood is now damaged and will take some time to become fertile again.
+Only the Shaman can steal from the Vault of Knowledge. Select her and left-click on the Vault of Knowledge.
+Casting on water has no effect.
+Casting on Shaman has no effect: See Encyclopaedia
+Your Followers are not training because you don't have enough Mana. Try toggling your spells to increase mana flow.
+Casting on Shaman has no effect.
+Casting on Wildmen has no effect.
+Can't access, no Braves: Without any Braves in your tribe, you cannot access the Buildings Panel.
+One or more of your people can't get to this point.
+Plan needs to be placed on the coast.
+Your Spell Charge Rate is too low, Shaman. Right-click and turn off some spell icons to increase the charge rate for your more essential spells.
+You can't ally in single player, only multiplayer.
+You can only cast Armageddon on your Reincarnation Site.
+The Enemy Shaman is impervious to Swarm.
+You cannot cast Landbridge from a Balloon.
+The Journey Begins
+I have created my Reincarnation Site and the settlement is nearly complete. 
+In my visions I have seen the settlement of my Enemies, the Dakini Tribe.
+The Dakini Vault of Knowledge contains the key to my victory, but it lies beyond my reach across the water.
+Now is the time to destroy our Enemies! I sense the Stone Head contains magic that will aid us.
+You have received a Single Shot Landbridge spell. Use it to create a path from where your Shaman stands to the land on which it is cast. Cast it over water to create a causeway.
+The Lightning Spell is a devastating weapon and much more powerful than Blast. It kills Enemy Followers, and sets fire to Trees and buildings.
+Your settlement is thriving, Shaman. Braves resting in Huts are one way of creating Mana. Mana gives you the power to cast spells and train Followers
+Your tribe is small. Four Huts should breed enough Followers for you to attack the Dakini. Rest some Braves in your Huts and they will create Mana for your spells.
+Shaman, you've stolen the Warrior Training Hut Plan! Build one to train Warriors ready for conquest.
+Braves sent to a Warrior Training Hut become Warriors. Training uses Mana.
+It would be well to have at least four Huts, given the strength of the Enemy tribe. You already have two in your settlement, build two more.
+Shaman, this spell is not charged. The blue bar at the bottom of the icon shows the Mana charging up. The dots at the top are charged spell shots ready to cast.
+Use the Cursor Keys to rotate your view of the world. Try this now.
+You can only build close to an existing building or your Reincarnation Site.
+The Enemy has hidden the Knowledge of building and casting spells in a Vault of Knowledge. Only the Shaman can enter to gain this information.
+You can worship this Stone Head to aid your cause. Right-click on it to see the number of worshippers required. The red bar shows how long it will take before you gain the bonus. The Stone Head remains until it has nothing more to offer.
+Worship these Totem Poles to gain an advantage over the Enemy. Right-click to see how many worshippers are required. The red bar shows how long it will take for the Totem Pole to be triggered.
+Huts are for breeding Followers. Braves resting in Huts can create large amounts of Mana.
+Guard Posts are useful for locations that need patrolling. Place one down, select some Warriors and left-click on it to create a patrol.
+When manned by Warriors, a Guard Tower warns of approaching Enemies. The Shaman's spells also have greater range because of the higher altitude. The Guard Tower can be used to begin new settlements.
+The Blast Spell is weak but can be used to scatter Enemy Followers.
+The Lightning Spell is more powerful than Blast. Use it to kill Enemies and set fire to their buildings.
+If you do not build a Warrior Training Hut, the Enemy will easily defeat you. Build one near your base and start training your Braves.
+Shaman, you have built your Warrior Training Hut, now train some Warriors. To do this, select some of your Braves and left-click on the Warrior Training Hut.
+You can command some Followers to guard the Shaman. Select some Followers and press g. To stop them guarding, deselect any Followers and press g again.
+This spell is a Single Shot Spell and can only be cast once. If you miss, the Stone Head will grant you a second chance. Single Shot Spells are shown by red dots on the spell's icon.
+Shaman, you have discovered the Plans for the Guard Tower. This will enable you to establish a new settlement elsewhere.
+Shaman, your population has reached its maximum.
+The Enemy is launching an attack!
+Night Falls
+Now we must face the Matak Tribe. I sense many Warriors ready to stand against us. In my vision we are aided by magic from a Stone Head. There must be a way to reach it...
+Use the Tornado Spell to destroy the Enemy and their buildings before they have a chance to react.
+Use Swarm on the Enemy to scare them away from your Followers. The insects will disrupt the Enemy and sting them.
+Shaman, this Stone Head will aid you faster if you command two of your Followers to worship there.
+Mana is created by your Followers. Maximum Mana is created when your Followers are busy. Death drains your Mana, as does casting spells and training.
+Shaman, when your Followers worship a Totem Pole, a spell will be triggered somewhere on the world. This Totem has triggered a Landbridge.
+Crisis of Faith
+I have had a disturbing vision. The Chumara Tribe turned my own Followers against me when I attacked! I must find a way to reach their Vault of Knowledge and learn how to use this power against them.
+Owing to her magical and spiritual abilities, the Shaman is immune to the false words of  Enemy Preachers. Use this to your advantage if they try to convert your Followers.
+One of your Followers is being charmed by the false words of the Enemy Preacher. Be quick Shaman and use the Swarm spell to stop him!
+You have altered the land with the Erode spell by worshipping the Totem Pole.
+You've stolen the Knowledge of the Temple from the Enemy. Build one to train Preachers who can convert the Enemy to your tribe.
+Combined Forces
+We face a great threat. The Matak are massing against us. I need the power of Lightning to defeat them, but Preachers are guarding their Vault of Knowledge.
+Use the Convert spell to turn Wildmen into faithful Followers.
+Use the Invisibility spell on your own people and make them undetectable when entering an Enemy settlement.
+Your Braves will not be able to handle the Enemy on their own. Build a Warrior Training Hut to train some Warriors.
+The Enemy has the ability to subvert your Followers by using her Preachers. You also have this ability so use it against her.
+Your forces are well trained and the Enemy is weak. Use your advantage to destroy the Enemy once and for all.
+Death From Above
+In my vision I beheld the ultimate horror: the Angel Of Death. It is an unstoppable force that will destroy everything in its path! If my Enemies, the Dakini, reach it before me, our fate is sealed.
+The Ancients have granted you a Boat, Shaman.
+Building Bridges
+For the first time we must face two tribes: the Chumara and the Matak. Perhaps I can use them against each other. I sense a Totem Pole may be useful in bringing them into conflict.
+Shaman, your plan has been successful. The Chumara and the Matak will soon be at war.
+Shaman, you have no way of reaching the island to pray at the Totem.  However, you now have the Hypnotise spell
+Unseen Enemy
+The Chumara will use the spell of Invisibility to attack us. Once again, I sense a Stone Head that contains a prize: the spell of Erode! Then, I will seize the power of Invisibility from their Vault of Knowledge.
+Shaman, beware. You are being attacked by invisible Enemies!
+Use the Erode spell on steep mountains to weather the rock and make the land walkable again. You can also use it to destroy enemy buildings by eroding the land beneath them.
+Continental Divide
+I sense a Dakini settlement nearby and they have a powerful defence against us; mighty Followers known as Firewarriors! I will need the spells of Tornado and Magical Shield contained in the Stone Heads to defeat them. Then I too will have the knowledge to train my own Firewarriors.
+Beware, Shaman. Firewarriors are dangerous foes. Try using the spells of Invisibility and Magical Shield to help your Preachers convert them.
+Fire in the Mist
+I am troubled... my visions are strangely clouded. I feel a powerful spell nearby that will aid me in our battle against the Chumara, yet it lies across the water. I sense our Enemy have Boats and will use them to attack us. I must seize their Boats, find this spell and destroy them.
+Shaman, be swift and seize some Boats from the Enemy. This is the only way to reach the Stone Head.
+A Boat House can only be built on the coast. Use the Space Bar to rotate it into position.
+From the Depths
+I have had a terrible vision with scenes of death and destruction as our settlement sank into the sea! I must move swiftly if I am to save my tribe and wreak revenge upon our Enemies.
+Shaman, the Totem Pole across the water can give you the land you need to replenish your tribe.
+Shaman, the Totem Pole in the Matak settlement has the power to grant your revenge.
+You have run out of time, Shaman, and your revenge has failed. The island has returned to the depths of the ocean.
+Treacherous Souls
+Once again we must face two tribes. I shall crush the Matak, then I must deal with the greater threat of the Chumara.
+An Easy Target
+For the first time we must face all three Enemy tribes. I must prepare for a mighty struggle.
+Aerial Bombardment
+I sense a new threat an attack from the skies. I must make ready for the battle to come.
+Attacked From All Sides
+In my vision I have again seen the Angel of Death. I shall find it and use it against my enemies.
+Incarcerated
+My magic is useless in this prison and I cannot escape. I must command my Followers to free me, or we are all doomed.
+Bloodlust
+I sense a spell hidden somewhere in this desert land that will increase the strength of my Followers. I must find it.
+Use Bloodlust to fill your tribe with a powerful fighting frenzy.
+Middle Ground
+I sense a great struggle ahead. The Chumara, Dakini and Matak are massing their forces against us.
+Head Hunter
+The Dakini are the mightiest of the three tribes we must face. I fear that if they are not stopped they will unleash a terrible magic upon us.
+Unlikely Allies
+The Dakini have grown too powerful on this world. I am suspicious of allying my tribe with the Chumara, but I must protect their settlement and prevent the Dakini from destroying us all.
+Use Teleport to move instantly to any location on the world.
+Your allies' defences have been breached. They are under attack!
+Your allies are losing their battle against the Dakini. They are desperate for your help.
+The Chumara have given up all hope of survival. This is your last chance to save them.
+Archipelago
+I sense the Dakini are preparing for war. I must create more land to build on if I am to increase my forces and face them in battle.
+Fractured Earth
+This is a mysterious, hostile land. I sense there are many dangers that I must face before we meet the Dakini in Battle.
+Well done Shaman. The Totem's Flatten spell has sealed the fault, preventing an eruption. More faults can be sealed by using this spell.
+A fault has become unstable and sparked a massive volcano! There are still more faults on the world that can be fused with the correct spell.
+Solo
+I am alone... I shall need all my strength and cunning to survive on this world. 
+Inferno
+Once again all three Enemy Tribes stand against us. I must search the land for any spell that will aid me.
+Journey's End
+I sense that our struggle is nearly at an end. The final battle awaits!
+The Beginning
+Finally, I am a god. I shall wreak my revenge upon the unbelievers!
+Hills Divide Us
+Eye of the Storm
+Two Crabs
+Skirmish
+All Around The World
+Linked Isles
+Skirmish
+Avenging Angels
+Three-Way
+Sandy Castles
+Two On Two
+Face Off
+Craters
+Dead Sea
+Pressure Point
+Level Status
+Completed
+Failed
+On Going
+Aborted
+Time Taken
+Fights Won
+Fights Lost
+Enemy Tribes Destroyed
+Enemy Followers Killed
+Enemy Buildings Destroyed
+Enemy Shaman Kills
+Own Followers Lost
+Own Buildings Destroyed
+Own Shaman Deaths
+Vaults of Knowledge Raided
+Level Won
+Level Lost
+Map: {}zoom to point. |}go to World View.
+Buildings Panel: Available buildings.
+Spells Panel: Available spells.
+Follower Panel: Shows your Followers and their tasks.
+Zoom to Fight: {}zoom.
+Commandee Toggle: Toggle between on-screen or global Followers.
+Shaman: {}select. |}zoom.
+Enemy Tribes: See the Encyclopaedia entry for more information.
+Total Followers (%d of %d): {}select one. Ctrl+{}select 5. Shift+{}select all.
+Braves: {}select one. Ctrl+{}select 5. Shift+{}select all.
+Warriors: {}select one. Ctrl+{}select 5. Shift+{}select all.
+Firewarriors: {}select one. Ctrl+{}select 5. Shift+{}select all.
+Preachers: {}select one. Ctrl+{}select 5. Shift+{}select all.
+Spies: {}select one. Ctrl+{}select 5. Shift+{}select all.
+Mana Bar: Display current Mana.
+Hut: {}select. |}zoom to Huts.
+Guard Tower: {}select. |}zoom to Guard Towers.
+Warrior Training Hut: {}select. |}zoom to Warrior Training Huts.
+Temple: {}select. |}zoom to Temples.
+Spy Training Hut: {}select. |}zoom to Spy Training Huts.
+Firewarrior Training Hut: {}select. |}zoom to Firewarrior Training Huts.
+Boat House: {}select. |}zoom to Boat Houses.
+Balloon Hut: {}select. |}zoom to Balloon Huts.
+Guard Post: {}select. |}zoom to Guard Posts.
+Currently selected Followers: {}deselect. Shift+{}deselect all. |}zoom.
+Currently selected Braves: {}deselect. Shift+{}deselect all. |}zoom.
+Currently selected Warriors: {}deselect. Shift+{}deselect all. |}zoom.
+Currently selected Firewarriors: {}deselect. Shift+{}deselect all. |}zoom.
+Currently selected Preachers: {}deselect. Shift+{}deselect all. |}zoom.
+Currently selected Spies: {}deselect. Shift+{}deselect all. |}zoom.
+Idle Followers: {}select. Ctrl+{}select 5. Shift+{}select all. |}zoom.
+Idle Braves: {}select. Ctrl+{}select 5. Shift+{}select all. |}zoom.
+Idle Warriors: {}select. Ctrl+{}select 5. Shift+{}select all. |}zoom.
+Idle Firewarriors: {}select. Ctrl+{}select 5. Shift+{}select all. |}zoom.
+Idle Preachers: {}select. Ctrl+{}select 5. Shift+{}select all. |}zoom.
+Idle Spies: {}select. Ctrl+{}select 5. Shift+{}select all. |}zoom.
+Housed Followers: {}select. Ctrl+{}select 5. Shift+{}select all. |}zoom.
+Housed Braves: {}select. Ctrl+{}select 5. Shift+{}select all. |}zoom.
+Housed Warriors: {}select. Ctrl+{}select 5. Shift+{}select all. |}zoom.
+Housed Firewarriors: {}select. Ctrl+{}select 5. Shift+{}select all. |}zoom.
+Housed Preachers: {}select. Ctrl+{}select 5. Shift+{}select all. |}zoom.
+Housed Spies: {}select. Ctrl+{}select 5. Shift+{}select all. |}zoom.
+Busy Followers: {}select. Ctrl+{}select 5. Shift+{}select all. |}zoom.
+Busy Braves: {}select. Ctrl+{}select 5. Shift+{}select all. |}zoom.
+Busy Warriors: {}select. Ctrl+{}select 5. Shift+{}select all. |}zoom.
+Busy Firewarriors: {}select. Ctrl+{}select 5. Shift+{}select all. |}zoom.
+Busy Preachers: {}select. Ctrl+{}select 5. Shift+{}select all. |}zoom.
+Busy Spies: {}select. Ctrl+{}select 5. Shift+{}select all. |}zoom.
+Total Boats Occupied: {}select. Ctrl+{}select 5. Shift+{}select all. |}zoom.
+Boats With Braves: {}select. Ctrl+{}select 5. Shift+{}select all. |}zoom.
+Boats With Warriors: {}select. Ctrl+{}select 5. Shift+{}select all. |}zoom.
+Boats With Firewarriors: {}select. Ctrl+{}select 5. Shift+{}select all. |}zoom.
+Boats With Preachers: {}select. Ctrl+{}select 5. Shift+{}select all. |}zoom.
+Boats With Spies: {}select. Ctrl+{}select 5. Shift+{}select all. |}zoom.
+Total Balloons Occupied: {}select. Ctrl+{}select 5. Shift+{}select all. |}zoom.
+Balloons with Braves: {}select. Ctrl+{}select 5. Shift+{}select all. |}zoom.
+Balloons with Warriors: {}select. Ctrl+{}select 5. Shift+{}select all. |}zoom.
+Balloons with Firewarriors: {}select. Ctrl+{}select 5. Shift+{}select all. |}zoom.
+Balloons with Preachers: {}select. Ctrl+{}select 5. Shift+{}select all. |}zoom.
+Balloons with Spies: {}select. Ctrl+{}select 5. Shift+{}select all. |}zoom.
+Training Toggle: |}toggle on/off.
+Blast: {}select. |}toggle on/off.
+Lightning: {}select. |}toggle on/off.
+Tornado: {}select. |}toggle on/off.
+Swarm: {}select. |}toggle on/off.
+Invisibility: {}select. |}toggle on/off.
+Hypnotise: {}select. |}toggle on/off.
+Firestorm: {}select. |}toggle on/off.
+Ghost Army: {}select. |}toggle on/off.
+Erode: {}select. |}toggle on/off.
+Swamp: {}select. |}toggle on/off.
+Land Bridge: {}select. |}toggle on/off.
+Angel Of Death: {}select. |}toggle on/off.
+Earthquake: {}select. |}toggle on/off.
+Flatten: {}select. |}toggle on/off.
+Volcano: {}select. |}toggle on/off.
+Convert: {}select. |}toggle on/off.
+Magical Shield: {}select. |}toggle on/off.
+Teleport: {}select. |}toggle on/off.
+Armageddon: {}select. |}toggle on/off.
+Bloodlust: {}select. |}toggle on/off.
+This spell is not available yet.
+Tree: Select Braves and {}to gather wood. |}query.
+Wood Pile: Select Braves and {}to pick up. |}query.
+Wildman: A native. Use the Convert spell to convert him to a Brave.
+Boat: Select Followers and {}to use. |}query.
+Balloon: Select Followers and {}to use. |}query.
+Damaged Ground: Cannot be built on.
+Fog of War: Unexplored land hidden by fog.
+Hut Plan: Select Braves and {}to construct. Shift+|}remove.
+Guard Tower Plan: Select Braves and {}to construct. Shift+|}remove.
+Warrior Training Hut Plan: Select Braves and {}to construct. Shift+|}remove.
+Firewarrior Training Hut Plan: Select Braves and {}to construct. Shift+|}remove.
+Temple Plan: Select Braves and {}to construct. Shift+|}remove.
+Spy Training Hut Plan: Select Braves and {}to construct. Shift+|}remove.
+Guard Post: Select Followers and {}to guard. Shift+|}remove.
+Boat House Plan: Select Braves and {}to construct. Shift+|}remove.
+Balloon Hut Plan: Select Braves and {}to construct. Shift+|}remove.
+Wood being carried.
+Current Followers' Commands: |}zoom to destination.
+The health of your Follower.
+Number of pieces of wood available.
+Wood required and obtained for this building.
+Builders: {}select one. Shift+{}select all. |}zoom.
+Occupants: {}select one. Shift+{}select all. |}zoom.
+Guards: {}select one. Shift+{}select all. |}zoom.
+Worshippers: {}select one. Shift+{}select all. |}zoom.
+Dismantle Building: {}toggle deconstruction.
+Disembark From Vehicle: {}Occupiers disembark.
+Birth Progress: Time until new Brave is born.
+Training Progress: Time until new Follower is trained.
+Vehicle Building Progress: Time until new vehicle is built.
+Upgrade Progress: Time until Hut is upgraded.
+Worship Progress: When the bar is full, you will be rewarded.
+Regeneration: When the bar is full you can worship once again for a bonus.
+Single Shot Blast: {}select. Cannot be charged with Mana.
+Single Shot Lightning: {}select. Cannot be charged with Mana.
+Single Shot Tornado: {}select. Cannot be charged with Mana.
+Single Shot Swarm: {}select. Cannot be charged with Mana.
+Single Shot Invisibility: {}select. Cannot be charged with Mana.
+Single Shot Hypnotise: {}select. Cannot be charged with Mana.
+Single Shot Firestorm: {}select. Cannot be charged with Mana.
+Single Shot Ghost Army: {}select. Cannot be charged with Mana.
+Single Shot Erode: {}select. Cannot be charged with Mana.
+Single Shot Swamp: {}select. Cannot be charged with Mana.
+Single Shot Land Bridge: {}select. Cannot be charged with Mana.
+Single Shot Angel of Death: {}select. Cannot be charged with Mana.
+Single Shot Earthquake: {}select. Cannot be charged with Mana.
+Single Shot Flatten: {}select. Cannot be charged with Mana.
+Single Shot Volcano: {}select. Cannot be charged with Mana.
+Single Shot Convert: {}select. Cannot be charged with Mana.
+Single Shot Magical Shield: {}select. Cannot be charged with Mana.
+Single Shot Armageddon: {}select. Cannot be charged with Mana.
+Single Shot Teleport: {}select. Cannot be charged with Mana.
+Single Shot Bloodlust: {}select. Cannot be charged with Mana.
+Totem Pole: Worship this to aid you in your struggle.
+Obelisk: Only a Shaman can worship this and aid her tribe.
+Begin Tutorial Obelisk: Worship this to begin the tutorial.
+Spells Tutorial Obelisk: Worship this to begin the spells tutorial.
+Building Tutorial Obelisk: Worship this to begin the building tutorial.
+Fighting Tutorial Obelisk: Worship this to begin the fighting tutorial.
+End Spells Tutorial Obelisk: Worship this to end the spells tutorial.
+End Building Tutorial Obelisk: Worship this to end the building tutorial.
+End Fighting Tutorial Obelisk: Worship this to end the fighting tutorial.
+Vault of Knowledge: Contains the Knowledge of the Enemy. Only your Shaman can worship it.
+Stone Head: Your Followers may worship this to gain a bonus.
+Gargoyle: Worship this to aid you in your struggle.
+This building is not available yet.
+Reincarnation Site: Shaman reincarnates here after death.
+Shaman: {}select. |}query.
+Brave: {}select. |}query.
+Warrior: {}select. |}query.
+Firewarrior: {}select. |}query.
+Preacher: {}select. |}query.
+Spy: {}select. |}query.
+Small Hut: Select Followers and {}to house. |}query.
+Medium Hut: Select Followers and {}to house. |}query.
+Large Hut: Select Followers and {}to house. |}query.
+Guard Tower: Select a Follower and {}to use the Tower. |}query.
+Warrior Training Hut: Select Followers and {}to train. |}query.
+Temple: Select Followers and {}to train. |}query.
+Spy Training Hut: Select Followers and {}to train. |}query.
+Firewarrior Training Hut: Select Followers and {}to train. |}query.
+Boat House: Select Braves and {}to begin construction. |}query.
+Balloon Hut: Select Braves and {}to begin construction. |}query.
+%s Reincarnation Site.
+%s's Reincarnation Site.
+The %s Shaman.
+%s's Shaman.
+%s Brave.
+One of %s's Braves.
+%s Warrior.
+One of %s's Warriors.
+%s Firewarrior.
+One of %s's Firewarriors.
+%s Preacher.
+One of %s's Preachers.
+%s Spy.
+One of %s's Spies.
+Small %s Hut.
+One of %s's Small Huts.
+Medium %s Hut.
+One of %s's Medium Huts.
+Large %s Hut.
+One of %s's Large Huts.
+%s Guard Tower.
+One of %s's Guard Towers.
+%s Warrior Training Hut.
+One of %s's Warrior Training Huts.
+%s Temple.
+One of %s's Temples.
+%s Spy Training Hut.
+One of %s's Spy Training Huts.
+%s Firewarrior Training Hut.
+One of %s's Firewarrior Training Huts.
+%s Boat House.
+One of %s's Boat Houses.
+%s Balloon Hut.
+One of %s's Balloon Huts.
+%s Tribe Icon: See the Encyclopaedia entry for more information.
+%s's Tribe Icon: See the Encyclopaedia entry for more information.
+Narrative: {}display level narrative. 
+Objective: {}display objective. |}zoom to objective location.
+Information: {}display helpful information. |}zoom to location. Shift+|}delete message.
+Spell Cast Alert: {}zoom. Colour indicates Enemy. Shift+|}delete message.
+Battle Alert: {}zoom. Colour indicates Enemy. Shift+|}delete message.
+Worship Alert: {}zoom. Colour indicates Enemy. Shift+|}delete message.
+Return Zoom: {}zoom to your previous location. Shift+|}delete message.
+Back: Return to the previous Encyclopaedia item.
+Forward: Advance to the next Encyclopaedia item.
+Home: Return to the Encyclopaedia information page.
+Close: Exit from the Encyclopaedia.
+Context Sensitive Help: {}Query Mode. {}on icon or object to see Encyclopaedia entry.
+Spell Charge Rate: How efficiently your spells are charging with Mana. See the Encyclopaedia entry for more information.
+Prison: The Shaman has been incarcerated here.
+The health of the Shaman.
+Erode: {}select.
+Flatten: {}select.
+Landbridge: {}select.
+Hill: {}select.
+Valley: {}select.
+Raise: {}select.
+Lower: {}select.
+Wildmen: {}select.
+Trees: {}select.
+Begin World: {}start
+An unconquered world: {}select
+You have conquered this world: {}select
+The sun.
+Your progress through the Solar System
+<t>Main Menu</t><r><r><a 63>The Control Panel</a><r><a 2>The World</a><r><a 12>Buildings</a><r><a 22>Spells</a><r><a 39>Followers</a><r><a 46>Commands</a>
+<t>Populous Encyclopaedia</t><r><r>Welcome to the Populous Encyclopaedia.<r><r>This Encyclopaedia is an extension of the Populous manual. It lists in detail each spell, building and Follower which you have gained while you have been playing the game. Each time you discover a new spell, it will appear in the Encyclopaedia and you will be able to learn how to use it easily and quickly. The same will happen with new buildings and Followers.<r><r>Click on each heading on the Main Menu to bring up the list of topics in that section. Then, click on each topic to bring up further information. For example, if you want to learn about the Guard Tower building, <b>left-click</b> on the Buildings heading to bring up the Buildings Menu and then <b>left-click</b> on Guard Tower to view all the information about the Guard Tower. 
+<t>The World</t><r><r><a 75>Mana</a><r><r><a 3>Trees and Wood</a><r><r><a 4>Water</a><r><r><a 5>Reincarnation Site</a><r><r><a 6>Stone Head</a><r><r><a 87>Obelisk</a><r><r><a 7>Vault of Knowledge</a><r><r><a 8>Totem Pole</a><r><r><a 9>Wildmen</a><r><r><a 10>Boats</a><r><r><a 11>Balloons</a>
+<t>Trees and Wood</t><r><r>On every world you play, you will see trees dotted around the landscape. Trees are very important to you because you need them for every type of construction, from buildings to boats. You can <a 52>Gather Wood</a> from trees by selecting one or more of your <a 41>Braves</a> (the only Followers who can construct buildings and vehicles) and <b>Left Clicking</b> on a tree. Each tree contains up to four pieces of wood. The less wood it has, the smaller it is and if you gather all the pieces of wood, it will be uprooted and disappear. Trees do grow back to full health but it does take a while so make sure you don't run out prematurely. If you do, you may have to hunt for more.<r><r>The wood you gather can be dropped anywhere and your Braves will drop it if they have nothing else to do. Your Braves will gather wood from trees automatically when you command them to construct something, but they will always use any nearby piles of wood before cutting down a tree.
+<t>Water</t><r><r>Water in Populous is fatal and, although your Followers avoid it, they will drown if they fall in.
+<t>Reincarnation Site</t><r><r>The Reincarnation Site is your source of power on each world. The stones of the site channel all the <a 75>Mana</a> gathered from your Followers and you can draw on this power to cast powerful and destructive spells.<r><r>When you begin a world, a Reincarnation Site will be created and your struggle for supremacy will begin. If the Shaman dies and you have lost all your Followers, the Reincarnation Site will be destroyed and the level will be over. If you die and you still have Followers on the world however, the Shaman will be reincarnated in the Stone Circle.<r><r>You can't cast spells on an Enemy Reincarnation Site and the only way to destroy one is to defeat the entire Enemy tribe. Your Reincarnation Site can be used as the starting point of a settlement.
+<t>Stone Head</t><r><r>Stone Heads are mystical statues left on the worlds by The Ancients. If they are worshipped, they will reward you with new skills that you can use to conquer the Enemy. Powers gained from Stone Heads only provide a single use, but more can be accumulated. If the new skill is a spell, you will only be able to cast it once, and if it is a building, you will only be able to construct it once.<r><r>If you <b>right-click</b> on a Stone Head, it will show you how many of your Followers are needed to worship the stone to begin. When a Stone Head is completely drained, it will sink into the ground.<r><r>To worship a Stone Head, select some Followers and <b>left-click</b> on the Stone Head. If you <b>right-click</b> on the Stone Head again, you will see a red line next to the number of Followers and this indicates how long it will take. Once it has finished, you will receive the new skill, although your Followers will keep worshipping until you command them to stop.
+<t>The Vault of Knowledge</t><r><r>These ancient Vaults are tall buildings which store the knowledge of an Enemy Shaman. The symbol at the top of the building indicates the type of knowledge contained within the structure. If the Shaman gains entry to a Vault, the Enemy's knowledge will pass to her permanently.<r><r>Select the Shaman and left-click on the vault to begin. Remember that the Vault of Knowledge will often be heavily guarded.
+<t>Totem Pole</t><r><r>Totem Poles are magical devices which, when worshipped, trigger a spell. This spell will often grant the player access to previously unreachable parts of the world, or cause massive devastation to the Enemy.<r><r>If you <b>right-click</b> on the Totem Pole, it will show you how many of your Followers are needed to worship that Totem Pole to begin.<r><r>To worship a Totem Pole, select some Followers and <b>left-click</b> on the pole. If you <b>right-click</b> on the pole again, you will see a red line next to the number of Followers and this indicates how long it will take.
+<t>Wildmen</t><r><r>On every world are native Wildmen who wander the land scavenging for food and water. Although they pose no threat to you, they can be converted to your cause to swell the ranks of your army.<r><r>To do this, you must cast the <a 24>Convert</a> spell on them to convert them into <a 41>Braves</a>. There are only a limited number of Wildmen on each world so you must do your best to convert them before the Enemy does.
+<t>Boats</t><r><r>Boats are constructed in the <a 19>Boat House</a> by your <a 41>Braves</a> and are used to navigate the otherwise impassable oceans of the world. To start producing Boats, send some Braves into the Boat House (by selecting them and <b>Left Clicking</b> on the building). The Braves will then gather wood and begin construction. When a Boat is constructed, a Brave will then sail it to the shore next to the Boat House.<r><r>You can place up to five Followers in each Boat. To put a Follower in a Boat, select the Follower and <b>left-click</b> on the Boat. If you have more than one Boat, you can hold down the <b>Ctrl</b> key and <b>left-click</b> on each Boat in turn to put multiple Followers in them. To move a Boat, select the Boat or a Follower inside and <b>left-click</b> anywhere on the water. If you <b>left-click</b> on dry land, the Boat will beach but your Followers will not disembark. To make your Followers disembark, <b>right-click</b> on the Boat and <b>left-click</b> on the Disembark icon.
+<t>Balloons</t><r><r>Balloons enable you to travel to any location on world with ease. They are constructed in the <a 20>Balloon Hut</a> by your <a 41>Braves</a> and can carry up to two Followers. To start producing Balloons, send some Braves into the Balloon Hut (by selecting them and <b>Left Clicking</b> on the building). The Braves will then gather wood and begin construction. When a new Balloon is produced, one Brave will get into the Balloon and fly it outside the building.<r><r>To put a Follower in a Balloon, select the Follower and <b>left-click</b> on the Balloon. If you have more than one Balloon, you can hold down the <b>Ctrl</b> key and <b>left-click</b> on each Balloon in turn to put multiple Followers in them. To move a Balloon, select the Balloon of a Follower inside and <b>left-click</b> anywhere on the world. To make your Followers disembark, <b>right-click</b> on the Balloon and <b>left-click</b> on the Disembark icon.The additional height of the Balloon over the land gives you an added advantage when casting most spells. 
+<t>Buildings List</t><r><r><a 13>Hut</a><r><r><a 14>Guard Tower</a><r><r><a 15>Warrior Training Hut</a><r><r><a 16>Temple</a><r><r><a 17>Spy Training Hut</a><r><r><a 18>Firewarrior Training Hut</a><r><r><a 19>Boat House</a><r><r><a 20>Balloon Hut</a><r><r><a 21>Guard Post </a>
+<t>Hut</t><r><r>The Hut is a unique building which you can construct to house your Followers. When your Braves are in their Huts, they are hidden from the Enemy's sight and also generate <a 75>Mana</a> for you. When an individual Hut has been occupied for a while, your Braves will upgrade it to a Medium Hut which can hold up to four people. Then, when it has been occupied for a while more, it will be upgraded to a Large Hut which can hold up to five Followers. Each stage also increases the amount of <a 75>Mana</a> produced by the occupants. You need one or more Followers in a Hut for it to create new Braves. The more Followers you have in the Hut, the faster this will be.<r><r><b>First Stage:</b><r><r><b>Wood Required to Construct</b><r><i 0><r><b>Max Number of Occupants</b><r><i 5><r><b>Amount of Mana Produced</b><r><i 14><r><b>Birth Time</b><r><i 20><r><b>Strength</b><r><i 12><r><r><b>Second Stage:</b><r><r><b>Wood Required to Construct</b><r><i 0><r><b>Max Number of Occupants</b><r><i 6><r><b>Amount of Mana Produced</b><r><i 14><r><b>Birth Time</b><r><i 17><r><b>Strength</b><r><i 12><r><r><b>Third Stage:</b><r><r><b>Wood Required to Construct</b><r><i 0><r><b>Max Number of Occupants</b><r><i 7><r><b>Amount of Mana Produced</b><r><i 14><r><b>Birth Time</b><r><i 14><r><b>Strength</b><r><i 12>
+<t>Guard Tower</t><r><r>The Guard Tower is a unique building which can be placed anywhere on the landscape to give you an advanced warning of an Enemy attack. Any Follower placed inside the tower will sound a warning bell whenever an Enemy Follower approaches. You can then zoom to the Tower by pressing the <b>Space Bar</b>.<r><r>Since the Guard Tower does not need to be constructed next to an existing building, it can also be used to begin a new settlement. Because of the height of the tower, any Follower placed inside has improved abilities.Shamans can fire spells further, Braves extend the look-out range, Warriors will call for help to defend the settlement, Firewarriors can fire further, Preachers can preach further and Spies can unmask Enemy Spies. Building the Guard Tower on top of high ground will extend these ranges even further.<r><r><b>Wood Required to Construct</b><r><i 1><r><b>Max Number of Occupants</b><r><i 8><r><b>Strength</b><r><i 14> 
+<t>Warrior Training Hut</t><r><r>The Warrior Training Hut is used to train <a 41>Braves</a> or <a 39>other Followers</a> into <a 42>Warriors</a>, stronger and hardier Followers who enjoy <a 54>Guarding</a> and <a 48>Attacking</a>. Once you have constructed the Warrior Training Hut, you can train your Followers by selecting any number of them and <b>Left Clicking</b> on the building.Your Followers will then line up outside and enter one by one to be trained. Training also requires <a 75>Mana</a> so if your Followers are not entering the building, you may not have enough Mana to train them.<r><r><b>Wood Required to Construct</b><r><i 2><r><b>Max Number of Occupants</b><r><i 8><r><b>Strength</b><r><i 16>
+<t>Temple</t><r><r>The Temple is used to train <a 41>Braves</a> or <a 39>other Followers</a> into <a 44>Preachers</a>, Followers who can Preach to the Enemy and convert them to your cause. Once you have constructed the Temple, you can train your Followers by selecting any number of them and <b>Left Clicking</b> on the building. Your Followers will then line up outside and enter one by one to be trained. Training also requires <a 75>Mana</a> so if your Followers are not entering the building, you may not have enough Mana to train them.<r><r><b>Wood Required to Construct</b><r><i 2><r><b>Max Number of Occupants</b><r><i 8><r><b>Strength</b><r><i 16>
+<t>Spy Training Hut</t><r><r>The Spy Training Hut is used to train <a 41>Braves</a> or <a 39>other Followers</a> into <a 45>Spies</a>, subversive Followers who can disguise themselves as the Enemy and sabotage their buildings. Once you have constructed the Spy Training Hut, you can train your Followers by selecting any number of them and <b>Left Clicking</b> on the building. Your Followers will then line up outside and enter one by one to be trained. Training also requires <a 75>Mana</a> so if your Followers are not entering the building, you may not have enough Mana to train them.<r><r><b>Wood Required to Construct</b><r><i 2><r><b>Max Number of Occupants</b><r><i 8><r><b>Strength</b><r><i 16>
+<t>Firewarrior Training Hut</t><r><r>The Firewarrior Training Hut is used to train <a 41>Braves</a> or <a 39>other Followers</a> into <a 43>Firewarriors</a>, Followers with the ability to throw devastating fireballs at the Enemy and their buildings. Once you have constructed the Firewarrior Training Hut, you can train your Followers by selecting any number of them and <b>Left Clicking</b> on the building. They will then line up outside and enter one by one to be trained. Training also requires <a 75>Mana</a> so if your Followers are not entering the building, you may not have enough Mana to train them.<r><r><b>Wood Required to Construct</b><r><i 2><r><b>Max Number of Occupants</b><r><i 8><r><b>Strength</b><r><i 16>
+<t>Boat House</t><r><r>The Boat House allows you to construct <a 10>Boats</a> capable of holding up to five Followers. Boat Houses have to be positioned carefully because they can only back up onto water and also have to be next to an existing building. When you are placing one down, choose a bit of coastline that is straight and flat. Rotate the Boat House Plan with the Space Bar so that the entrance is facing away from the water. If the Plan is in a valid position (and you have a building nearby, such as a Guard Tower), you can place it down and begin construction. If you do not, you will have to find an alternative site.<r><r>To start producing Boats, send some <a 41>Braves</a> into the Boat House (by selecting them and <b>Left Clicking</b> on the building). The Braves will then gather wood and begin construction. When a new Boat is produced, one Brave will then sail it round to the shore next to the Boat House.<r><r><b>Wood Required to Construct building</b><r><i 0><r><b>Wood required to Construct Boat</b><r><i 4><r><b>Max Number of Occupants</b><r><i 7><r><b>Strength</b><r><i 12>
+<t>Balloon Hut</t><r><r>The Balloon Hut enables you to construct <a 11>Balloons</a> capable of flying anywhere on the world. Balloon Huts are large and use a lot of wood, so be careful where you build them.<r><r>To start producing Balloons, send some <a 41>Braves</a> into the Balloon Hut (by selecting them and <b>Left Clicking</b> on the building). The Braves will gather wood and begin construction. When a new Balloon is produced, one Brave will get into the Balloon and fly it outside the building.<r><r><b>Wood Required to Construct building</b><r><i 3><r><b>Wood required to Construct Boat</b><r><i 0><r><b>Max Number of Occupants</b><r><i 5><r><b>Strength</b><r><i 20>
+<t>Guard Post</t><r><r>A Guard Post allows you to guard and patrol areas of your settlement and the surrounding area. They do not require wood to build, can be placed anywhere and any Follower can be commanded to use them. To use a Guard Post, first place one down on the landscape and select some of your Followers. Then <b>left-click</b> on the Guard Post and your Followers will run to it and circle it.<r><r>You can also set down more than one Guard Post and tell your Followers to move between them, thus creating a patrol. Place down two more Guard Posts and select your Followers. Then hold down <b>Ctrl</b> and <b>left-click</b> on each Guard Post in turn, stopping on the last one. Your Followers will now run between all the Guard Posts and return to the first when the last is reached.<r><r>You can perform even more complex actions using Guard Posts. If you hold down <b>Ctrl</b> and send one or more of your Followers to a Guard Post and then set them some more actions, such as chopping down a tree, they will only go to the Guard Post. When you are ready, you can press the <b>n</b> key, your Followers will stop guarding and perform their next commands; in this case, chopping down a tree. This allows you to synchronise your Followers and perform many tasks at once, all triggered at once by pressing the <b>n</b> key.<r><r>Your Guard Posts are invisible to the Enemy and the Enemy's are invisible to you.<r><r>To remove a Guard Post, hold down <b>Shift</b> and <b>right-click</b> on it. 
+<t>Spells List</t><r><r><a 23>Blast</a><r><r><a 24>Convert</a><r><r><a 59>Magical Shield</a><r><r><a 25>Ghost Army</a><r><r><a 26>Swarm</a><r><r><a 27>Invisibility</a><r><r><a 28>Land Bridge</a><r><r><a 29>Lightning</a><r><r><a 30>Hypnotise</a><r><r><a 61>Bloodlust</a><r><r><a 60>Teleport</a><r><r><a 31>Tornado</a><r><r><a 32>Swamp</a><r><r><a 33>Flatten</a><r><r><a 34>Earthquake</a><r><r><a 35>Erode</a><r><r><a 36>Firestorm</a><r><r><a 37>Angel Of Death</a><r><r><a 38>Volcano</a><r><r><a 62>Armageddon</a><r><r><a 77>Forge World Multiplayer Spells</a>
+<t>Blast</t><r><r>The Blast spell is your simplest offensive weapon. When fired, it creates a ball of flame and a shockwave which hurls any nearby people into the air, including your own Followers. Be careful when using this spell near water.<r><r><b>To Use:</b> <b>Left-click</b> to select the Blast Spell from the <a 72>Spells Panel</a> and move the mouse pointer to where you want to target the spell. <b>Left-click</b> to fire.<r><r><b>Range</b><r><i 10><r><b>Mana Required</b><r><i 9>
+<t>Convert</t><r><r>The Convert spell is a special spell which you can cast around <a 9>Wildmen</a> to convert them to your cause. When you cast the spell, a ring of light will appear and any chosen Wildmen inside the ring will be converted.<r><r><b>To Use:</b> <b>Left-click</b> to select the Convert spell from the <a 72>Spells Panel</a> and move the mouse pointer to where you want to target the spell. <b>Left-click</b> to fire.<r><r><b>Range</b><r><i 20><r><b>Mana Required</b><r><i 9>
+<t>Ghost Army</t><r><r>The Ghost Army spell creates ethereal Followers for you to command. Although they have no strength and cannot perform any tasks, such as construction, they appear solid and real to the Enemy. You can command them as you do normal Followers but as soon as they are hurt in any way, they will disappear in a cloud of smoke.<r><r>If you cast the Ghost Army spell on an empty piece of ground, you will create ghost Braves. If you cast the spell on another Follower, however, you will create a ghost of that Follower (i.e. cast the Ghost Army spell on a <a 40>Shaman</a> and you create ghost Shamans). This spell is only available during multiplayer games.<r><r><b>To Use:</b> <b>Left-click</b> to select the Ghost Army spell from the <a 72>Spells Panel</a> and move the mouse pointer to where you want to target the spell. <b>Left-click</b> to fire.<r><r><b>Range</b><r><i 12><r><b>Mana Required</b><r><i 10>
+<t>Swarm</t><r><r>Swarm creates a cloud of stinging insects, which will attack Enemy Followers and buildings. If a swarm attacks an Enemy Follower, he will run away from the cloud of insects. If the swarm attacks a building, any Followers inside will be forced out and away from the settlement. The swarm will also cause some damage to Enemy Followers.<r><r><b>To Use:</b> <b>Left-click</b> to select the Swarm spell from the <a 72>Spells Panel</a> and move the mouse pointer to where you want to target the spell. <b>Left-click</b> to fire.<r><r><b>Range</b><r><i 16><r><b>Mana Required</b><r><i 11>
+<t>Invisibility</t><r><r>The Invisibility spell enables you to turn some of your Followers invisible for a period of time. If you fire it at a point on the ground, any Followers within a short distance will be turned invisible. The Shaman is immune to the spell and cannot use it on herself.<r><r><b>To Use:</b> <b>Left-click</b> to select the Invisibility spell from the <a 72>Spells Panel</a> and move the mouse pointer to where you want to target the spell. <b>Left-click</b> to fire.<r><r><b>Range</b><r><i 12><r><b>Mana Required</b><r><i 11>
+<t>Land Bridge</t><r><r>The Land Bridge spell, when cast on the far shore of a stretch of water separating two pieces of land, will join those pieces of land by raising the ocean floor. You can also use the spell to create a ramp up to the top of a cliff by standing at the bottom and casting the spell on the top; or you can join two hills together to make a handy defence platform.<r><r><b>To Use:</b> Find two pieces of land separated by a small stretch of water and move your <a 40>Shaman</a> to the edge of one shore. <b>Left-click</b> to select the Land Bridge spell from the <a 72>Spells Panel</a> and move the mouse pointer so that it is on the edge of the opposite shore. <b>Left-click</b> to fire.<r><r><b>Range</b><r><i 14><r><b>Mana Required</b><r><i 12>
+<t>Lightning</t><r><r>Lightning is a more powerful version of the <a 23>Blast</a> spell. When cast, a lightning bolt will strike the earth and kill or set fire to anything it touches, including Enemy Followers, trees and buildings.<r><r><b>To Use:</b> <b>Left-click</b> to select the Lightning spell from the <a 72>Spells Panel</a> and move the mouse pointer to where you want to target the spell. <b>Left-click</b> to fire.<r><r><b>Range</b><r><i 16><r><b>Mana Required</b><r><i 13>
+<t>Hypnotise</t><r><r>Hypnotise, when cast on Enemy Followers, converts anyone (except <a 40>Shamans</a>) to your tribe for a short period of time. Like the <a 27>Invisibility</a> spell, it only affects those within a short distance of where the spell was fired. The Shaman is immune to the spell.<r><r><b>To Use:</b> <b>Left-click</b> to select the Hypnotise spell from the <a 72>Spells Panel</a> and move the mouse pointer to where you want to target the spell. <b>Left-click</b> to fire.<r><r><b>Range</b><r><i 12><r><b>Mana Required</b><r><i 13>
+<t>Tornado</t><r><r>The Tornado spell creates a destructive force of dust and wind which destroys anything in its path. If any Followers are caught in it's path, they will be picked up and flung across the land. If the Tornado hits any buildings, they will be pulled apart and destroyed. Since Tornadoes are a force of nature, you have no control over their path, so bear this in mind when you cast one.<r><r><b>To Use:</b> <b>Left-click</b> to select the Tornado spell from the <a 72>Spells Panel</a> and move the mouse pointer to where you want to target the spell. <b>Left-click</b> to fire.<r><r><b>Range</b><r><i 12><r><b>Mana Required</b><r><i 13>
+<t>Swamp</t><r><r>When cast upon a piece of ground, Swamp causes the ground to become a deep bog capable of swallowing up anything which runs into it, including your own Followers.<r><r><b>To Use:</b> <b>Left-click</b> to select the Swamp spell from the <a 72>Spells Panel</a> and move the mouse pointer to where you want to target the spell. <b>Left-click</b> to fire. <b>Right-click</b> on any of your Swamps to find out how many more people that Swamp can swallow. Hold down <b>Shift</b> and <b>Right-click</b> on any of your Swamps to remove them.<r><r><b>Range</b><r><i 12><r><b>Mana Required</b><r><i 14>
+<t>Flatten</t><r><r>Flatten is a powerful land-altering spell which, when cast on a piece of land, will spread out and level the land around to the same height as the point it was cast on.<r><r><b>To Use:</b> <b>Left-click</b> to select the Flatten spell from the <a 72>Spells Panel</a> and move the mouse pointer to where you want to target the spell. <b>Left-click</b> to fire.<r><r><b>Range</b><r><i 12><r><b>Mana Required</b><r><i 15>
+<t>Earthquake</t><r><r>The Earthquake spell tears the land apart and can be a very devastating spell when used against the Enemy on high ground.<r><r><b>To Use:</b> <b>Left-click</b> to select the Earthquake spell from the <a 72>Spells Panel</a> and move the mouse pointer to where you want to target the spell. <b>Left-click</b> to fire.<r><r><b>Range</b><r><i 12><r><b>Mana Required</b><r><i 16>
+<t>Erode</t><r><r>Erode allows you to accelerate time and weather an area of land as if water were shaping and eroding the rock. This can cause the Enemy's buildings to sink into the water, or make ravines smooth and navigable.<r><r><b>To Use:</b> <b>Left-click</b> to select the Erode spell from the <a 72>Spells Panel</a> and move the mouse pointer to where you want to target the spell. <b>Left-click</b> to fire.<r><r><b>Range</b><r><i 12><r><b>Mana Required</b><r><i 17>
+<t>Firestorm</t><r><r>The Firestorm spell turns rain into fire and balls of flame fall to earth. This is a powerful spell, devastating against buildings and people.<r><r><b>To Use:</b> <b>Left-click</b> to select the Firestorm spell from the <a 72>Spells Panel</a> and move the mouse pointer to where you want to target the spell. <b>Left-click</b> to fire.<r><r><b>Range</b><r><i 12><r><b>Mana Required</b><r><i 18>
+<t>Angel Of Death</t><r><r>The Angel Of Death is a demonic serpent who will hunt out Enemy Followers and destroy them.<r><r><b>To Use:</b> <b>Left-click</b> to select the Angel Of Death spell from the <a 72>Spells Panel</a> and move the mouse pointer to where you want to target the spell. <b>Left-click</b> to fire.<r><r><b>Range</b><r><i 10><r><b>Mana Required</b><r><i 19>
+<t>Volcano</t><r><r>The Volcano spell is the most powerful spell in your arsenal and can lay waste to huge tracts of the landscape. It uses a large amount of <a 75>Mana</a>, but once cast will prove your domination over the Enemy.<r><r><b>To Use:</b> <b>Left-click</b> to select the Volcano spell from the <a 72>Spells Panel</a> and move the mouse pointer to where you want to target the spell. <b>Left-click</b> to fire.<r><r><b>Range</b><r><i 10><r><b>Mana Required</b><r><i 20>
+<t>Followers List</t><r><r><a 40>Shaman</a><r><r><a 41>Brave</a><r><r><a 42>Warrior</a><r><r><a 43>Firewarrior</a><r><r><a 44>Preacher</a><r><r><a 45>Spy</a><r><r>
+<t>Shaman</t><r><r>In Populous: The Beginning you play the Shaman, guiding her to the ultimate goal of becoming a deity and gaining god-like omnipotence. If you are killed you will reincarnate at the <a 5>Reincarnation Site</a>, but only if you have other Followers converted to your faith. If you do not have any Followers on the world, you will die and lose the game.<r><r>The Shaman will not perform menial tasks. Instead, she is skilled in magic allowing her to cast the spells available on the <a 72>Spells Panel</a>. To cast one of these spells, you have to walk to within range of the target. Each spell has a different range. When you select a spell from the Spells Panel, a mystical force will surround the Shaman indicating the boundaries of the spell's range. You can then <b>left-click</b> within the range to cast the spell.<r><r>You can also command your Followers to guard the Shaman. Select some of your Followers and press g. Those Followers will then run to the Shaman and surround her, attacking any Enemy who tries to reach her. To stop them guarding, deselect any followers and press g again.<r><r>When a Shaman dies, a quarter of her <a 75>Mana</a> will be taken from her and given to the tribe who killed her.<r><r><b>Life</b><r><i 20><r><b>Strength</b><r><i 10><r><b>Abilities</b><r>The Shaman is the conduit for your destructive spells and powers. Available spells are: <a 23>Blast</a>, <a 24>Convert</a>, <a 59>Magical Shield</a>, <a 25>Ghost Army</a>, <a 26>Swarm</a>, <a 27>Invisibility</a>, <a 28>Land Bridge</a>, <a 29>Lightning</a>, <a 30>Hypnotise</a>, <a 61>Bloodlust</a>, <a 60>Teleport</a>, <a 31>Tornado</a>, <a 32>Swamp</a>, <a 33>Flatten</a>, <a 34>Earthquake</a>, <a 35>Erode</a>, <a 36>Firestorm</a>, <a 37>Angel of Death</a>, <a 38>Volcano</a>, <a 62>Armageddon</a><r><r><b>List of possible commands</b><r><a 47>Walk to point</a>, <a 48>Attack Enemy</a>, <a 49>Attack Enemy building</a>, <a 51>Enter Hut</a>, <a 54>Guard</a>, <a 55>Enter boat</a>, <a 56>Enter balloon</a>, <a 58>Worship Object</a>
+<t>Brave</t><r><r>The Brave is your basic Follower and the workhorse of your settlements. They construct your buildings and can be trained to become more powerful with new abilities. Braves prefer to build and live in houses where they can breed more Braves. You must have a sufficient number of Huts for your Followers and they will stop breeding if you do not. Since Braves are the only Follower who can <a 50>construct</a> and <a 52>gather wood</a>, it is always a good idea to keep a few around just in case you need them.<r><r><b>Life</b><r><i 12><r><b>Strength</b><r><i 10><r><b>Abilities</b><r>Collect wood for construction, construct buildings<r><r><b>List of possible commands</b><r><a 47>Walk to point</a>, <a 48>Attack Enemy</a>, <a 49>Attack Enemy building</a>, <a 50>Construct Building</a>, <a 51>Enter Hut</a>, <a 52>Gather wood</a>, <a 53>Pick up wood</a>, <a 54>Guard</a>, <a 55>Enter boat</a>, <a 56>Enter balloon</a>, <a 58>Worship Object</a>
+<t>Warrior</t><r><r>Warriors are created by training <a 41>Braves</a> or any other Follower in the <a 15>Warrior Training Hut</a>. These improved fighters are much stronger in battle than the Brave. They do not perform menial tasks, such as construction, and are best suited to <a 54>Guarding</a> or <a 48>Fighting</a>.<r><r><b>Life</b><r><i 18><r><b>Strength</b><r><i 20><r><b>Abilities</b><r>Guarding, fighting<r><r><b>List of possible commands</b><r><a 47>Walk to point</a>, <a 48>Attack Enemy</a>, <a 49>Attack Enemy building</a>, <a 51>Enter Hut</a>, <a 54>Guard</a>, <a 55>Enter boat</a>, <a 56>Enter balloon</a>, <a 58>Worship Object</a>
+<t>Firewarrior</t><r><r>Firewarriors are created by training <a 41>Braves</a> or any other Follower in the <a 18>Firewarrior Training Hut</a>. These Followers are slower and weaker in hand to hand combat than <a 42>Warriors</a>. They do, however, have the ability to cast the <a 23>Blast</a> spell and they can target buildings or the Enemy Followers from a distance. Like Warriors, they will not perform any menial tasks, such as construction, and are best suited to <a 54>Guarding</a> or <a 48>Fighting</a>.<r><r><b>Life</b><r><i 10><r><b>Strength</b><r><i 10><r><b>Blast Strength</b><r><i 20><r><b>Abilities</b><r>Guarding, fighting<r><r><b>List of possible commands</b><r><a 47>Walk to point</a>, <a 48>Attack Enemy</a>, <a 49>Attack Enemy building</a>, <a 51>Enter Hut</a>, <a 54>Guard</a>, <a 55>Enter boat</a>, <a 56>Enter balloon</a>, <a 58>Worship Object</a>
+<t>Preacher</t><r><r>Preachers are created by training <a 41>Braves</a> or any other Follower in the <a 16>Temple</a>. When Preachers are standing idle, they worship your name and chant passages from your Holy Scriptures. If an Enemy Follower hears them, they will be entranced and will sit and listen to the Preacher praising your name. After a while, without interruption, the Enemy Follower will be converted to your cause. Preachers will not perform construction tasks and, although you can command them to guard, they will only preach when an Enemy Follower approaches. They are happiest when extolling your word but do not have any effect on the Enemy <a 40>Shaman</a> or Preachers.<r><r><b>Life</b><r><i 14><r><b>Strength</b><r><i 10><r><b>Abilities</b><r>Preaching<r><r><b>List of possible commands</b><r><a 47>Walk to point</a>, <a 48>Attack Enemy</a>, <a 49>Attack Enemy building</a>, <a 51>Enter Hut</a>, <a 54>Guard</a>, <a 55>Enter boat</a>, <a 56>Enter balloon</a>, <a 58>Worship Object</a> 
+<t>Spy</t><r><r>Spies are created by training <a 41>Braves</a> or any other Follower in the <a 17>Spy Training Hut</a>. They are subversive Followers who can disguise themselves as the Enemy and then use this ability to sabotage Enemy buildings. To do this, first select one or more of your Spies. Then, choose which player colour you want to disguise them as and click on the same coloured <a 69>Disguise Icon</a> on the Control Panel.<r><r>Your Spy will then don the clothes of the Enemy, although your Followers will ignore him. You can then send him into Enemy territory without fear of attack.<r><r>To <a 57>sabotage</a> a building, simply select one or more of your Spies and <b>left-click</b> on an Enemy building. They will then walk to the building and set it alight.<r><r>To unmask a suspected Enemy Spy, you can do a number of things. If an Enemy Spy passes one of your Spies or passes a Guard Tower with one of your Spies inside, he will be seen and unmasked. If your Followers catch an Enemy Spy whilst he is sabotaging, they will automatically attack him. If you see a disguised Enemy Spy, whether he is in your settlement or not, move your mouse over him and <b>right-click</b> to blow his cover.<r><r><b>Life</b><r><i 9><r><b>Strength</b><r><i 10><r><b>Abilities</b><r>Spying<r><r><b>List of possible commands</b><r><a 47>Walk to point</a>, <a 48>Attack Enemy</a>, <a 49>Attack Enemy building</a>, <a 51>Enter Hut</a>, <a 54>Guard</a>, <a 55>Enter boat</a>, <a 56>Enter balloon</a>, <a 57>Sabotage</a>, <a 58>Worship Object</a>
+<t>Command List</t><r><r><a 47>Walk to point</a><r><r><a 48>Attack Enemy</a><r><r><a 49>Attack Enemy building</a><r><r><a 50>Construct Building</a><r><r><a 51>Enter Hut</a><r><r><a 52>Gather wood</a><r><r><a 53>Pick up wood</a><r><r><a 54>Guard</a><r><r><a 55>Enter boat</a><r><r><a 56>Enter balloon</a><r><r><a 57>Sabotage Building</a><r><r><a 58>Worship Object<a/>
+<t>Walk To Point</t><r><r>This command tells your selected Followers to move to a certain point on the landscape. This command is automatically available when your mouse pointer is over an empty piece of ground and you have one or more Followers selected.<r><r><b>To Use:</b> Select one or more of your Followers. Move your mouse pointer to the place on the ground you want them to move to and <b>left-click</b>. 
+<t>Attack Enemy</t><r><r>This command tells your selected Followers to attack the Enemy Follower currently under your mouse pointer. This command is automatically available when you put your mouse pointer over an Enemy Follower and you have one or more Followers selected.<r><r><b>To Use:</b> Select one or more of your Followers. Move your mouse pointer over the Enemy Follower you want to attack and <b>left-click</b>. 
+<t>Attack Enemy Building</t><r><r>This command tells your selected Followers to attack and demolish the Enemy building currently under the mouse pointer. This command is automatically available when you put your mouse pointer over an Enemy building and you have one or more Followers selected.<r><r><b>To Use:</b> Select one or more of your Followers. Then move your mouse pointer to the Enemy building you want to attack and <b>left-click</b>. 
+<t>Construct Building</t><r><r>This command tells your selected <a 41>Braves</a> to construct the Plan currently under your mouse pointer. This command is automatically available when you put your mouse over a Plan or an uncompleted building and you have one or more Braves selected.<r><r><b>To Use:</b> Select one or more of your Braves. Then move your mouse pointer to the Plan or building you want to construct and <b>left-click</b>. 
+<t>Enter Hut</t><r><r>This command tells your selected Followers to enter the <a 13>Hut</a> currently under your mouse pointer. This command is automatically available when you put your mouse pointer over a fully constructed Hut and you have one or more Followers selected.<r><r><b>To Use:</b> Select one or more of your Followers. Then move your mouse pointer to the Hut you want them to enter and <b>left-click</b>.
+<t>Gather Wood</t><r><r>This command tells your selected <a 41>Braves</a> to gather <a 3>Wood</a> from the <a 3>Tree</a> currently under your mouse pointer. This command is automatically available when you put your mouse pointer over a Tree and you have one or more Braves selected.<r><r><b>To Use:</b> Select one or more of your Braves. Then move your mouse pointer to the Tree you want them to gather Wood from and <b>left-click</b>. 
+<t>Pick Up Wood</t><r><r>This command tells your selected <a 41>Braves</a> to pick up the <a 3>Wood</a> currently under your mouse pointer. This command is automatically available when you put your mouse pointer over a pile of Wood and you have one or more Braves selected.<r><r><b>To Use:</b> Select one or more of your Braves. Then move your mouse pointer to the pile of Wood you want to pick up and <b>left-click</b>.
+<t>Guard</t><r><r>This command tells your selected Followers to guard around the <a 21>Guard Post</a> currently under your mouse pointer and attack any approaching Enemy. This command is automatically available when you put your mouse pointer over a Guard Post and you have one or more Followers selected.<r><r><b>To Use:</b> Select one or more of your Followers. Then move your mouse pointer to the Guard Post you want them to guard around and <b>left-click</b>. You can also command your Followers to Guard around your <a 40>Shaman</a>. To do this, select one or more of your Followers; then move your mouse pointer over the Shaman and <b>left-click</b>. They will then Guard around her and attack any Enemy who approaches. 
+<t>Enter Boat</t><r><r>This command tells your selected Followers to board the <a 10>Boat</a> currently under your mouse pointer. This command is automatically available when you put your mouse pointer over a Boat and you have one or more Followers selected.<r><r><b>To Use:</b> Select one or more of your Followers. Then move your mouse pointer to the Boat you want them to board and <b>left-click</b>. 
+<t>Enter Balloon</t><r><r>This command tells your selected Followers to board the <a 11>Balloon</a> currently under your mouse pointer. This command is automatically available when you put your mouse pointer over a Balloon and you have one or more Followers selected.<r><r><b>To Use:</b> Select one or more of your Followers. Then move your mouse pointer to the Balloon you want them to board and <b>left-click</b>.
+<t>Sabotage Building</t><r><r>This command tells your selected <a 45>Spies</a> to Sabotage the Enemy building currently under your mouse pointer. This command is automatically available when you put your mouse pointer over an Enemy building and you have one or more Spies selected.<r><r><b>To Use:</b> Select one or more of your Spies. Then move your mouse pointer to the Enemy building you want them to Sabotage and <b>left-click</b>.
+<t>Worship Object</t><r><r>This command tells your selected Followers to worship the <a 6>Stone Head</a>, <a 8>Totem Pole</a> or enter a <a 7>Vault of Knowledge</a> currently under your mouse pointer. This command is automatically available when you put your mouse pointer over a one of these objects and you have one or more Followers selected.<r><r><b>To Use:</b> Select one or more of your Followers. Then move your mouse pointer to the object you want them to worship and <b>left-click</b>.
+<t>Magical Shield</t><r><r>Magical Shield casts a protective magical shell over any Follower it is cast upon. That Follower will be invulnerable to the effects of many spells including <a 23>Blast</a> and <a 29>Lightning</a>.<r><r><b>To Use:</b> <b>Left-click</b> to select the Magical Shield Spell from the <a 72>Spells Panel</a> and move the mouse pointer to where you want to target the spell. <b>Left-click</b> to fire.<r><r><b>Range</b><r><i 12><r><b>Mana Used</b><r><i 12>
+<t>Teleport</t><r><r>Teleport is a special spell which only the Shaman can use. It has an unlimited range and when you cast it on a point on the land, the Shaman will teleport to that point.<r><r><b>To Use:</b> <b>Left-click</b> to select the Teleport Spell from the <a 72>Spells Panel</a> and move the mouse pointer to where you want to teleport the Shaman. <b>Left-click</b> to fire.<r><r><b>Range</b><r>Unlimited Range
+<t>Bloodlust</t><r><r>Bloodlust, when cast on your own Followers, will turn them into frenzied killing machines, capable of successfully battling enemies more powerful than themselves.<r><r><b>To Use:</b> <b>Left-click</b> to select the Bloodlust Spell from the <a 72>Spells Panel</a> and move the mouse pointer to where you want to target the spell. <b>Left-click</b> to fire.<r><r><b>Range</b><r><i 12>
+<t>Armageddon</t><r><r>Armageddon is the ultimate weapon and should not be used lightly. When you cast the spell, an arena will rise from the earth and every Follower on the world will be teleported to it. Then, an almighty battle will begin between all the tribes and the last tribe standing will be the conqueror of the world.<r><r><b>To Use:</b> <b>Left-click</b> to select the Armageddon Spell from the <a 72>Spells Panel</a> and move the mouse pointer to where you want to target the spell and build the arena. <b>Left-click</b> to fire.<r><r><b>Range</b><r>Unlimited Range
+<t>The Control Panel</t><r><r><a 64>The Map and the World View</a><r><r><a 66>Commandee Toggle</a><r><r><a 67>Shaman</a><r><r><a 68>Query Button</a><r><r><a 69>Enemy Tribes Icons</a><r><r><a 70>Total Followers</a><r><r><a 76>Spell Charge Rate</a><r><r><a 71>Buildings Panel</a><r><r><a 72>Spells Panel</a><r><r><a 73>Followers Panel</a>
+<t>The Map and the World View</t><r><r><b>Map</b><r><r>This is the Scanner Map. It gives you a bird's eye view of the world. On it, you can see the sea and land and also your people. You cannot, however, see the Enemy (except when they are close to your Guard Towers) and you will need to use the World View if want to see them. If a fog is covering the world, there will also be a fog on the map. In the centre of the map is a circle indicating where you are on the world. Around this circle is a white arrow which points to north. To zoom to a point, <b>left-click</b> on the map. To go to the World View, <b>right-click</b> on the map.<r><r><a 9>Wildmen</a>: Grey dots<r>Your <a 39>Followers</a>: Small blue dots<r>Your <a 40>Shaman</a>: Large blue dot<r>Your <a 12>buildings</a>: Dark blue dots<r><r><b>World View</b><r><r>The World View is a more detailed map and also gives you information about the Enemy. You can get to it by either <b>Right Clicking</b> on the Scanner Map or pressing <b>Return</b>. Like the Scanner Map, you can see the land and your Followers, but now you can also see the Enemy Followers and buildings in their own colours. Your buildings appear as blue squares and the dots on the buildings indicate how many Followers are occupying them. Each of your Followers has a different shaped dot so that you can easily determine who is who. You can rotate the map with the <b>Cursor Keys</b> and also (if you have a middle mouse button) <b>middle-click</b> and <b>drag</b>. If you <b>right-click</b> anywhere on the globe, you will zoom back down to the ground at that point. Pressing <b>Return</b> will simply take you back down to the ground.
+<t>Zoom To Fight</t><r><r>When any of your Followers are involved in a battle, this icon will flash. By <b>Left Clicking</b> on the icon, you will be zoomed to that battle. If there are multiple battles going on at any one time, repeated clicks on the icon will cycle through them.
+<t>Commandee Toggle</t><r><r>The Commandee Toggle icon is directly related to the <a 70>Total Followers</a> icons and is discussed in more detail there.
+<t>Shaman</t><r><r>The Shaman icon is similar to those on the <a 73>Follower Panel</a> and allows you to directly access the Shaman without scrolling around the world looking for her. You can see exactly what the Shaman is currently doing by watching her on the icon. To the right of the icon is the Shaman's health bar. You can <b>left-click</b> on the icon to select her and <b>right-click</b> on the icon to zoom to her.
+<t>Query Button</t><r><r>The Query Button allows you to go directly to a section of this Encyclopaedia by clicking on a specific icon or object. To use, <b>left-click</b> on the icon and your mouse pointer will change to a question mark. You can then <b>left-click</b> on any icon or object on the screen and go straight to its explanation in the Encyclopaedia.
+<t>Enemy Tribes Icons</t><r><r>The Enemy Tribes icons perform a number of different functions. They only appear if there are enemies of that colour on the world. If the icons flash, it means that one of the Followers of that Enemy is dying and you can use it as an indication of whom is fighting whom.<r><r>You also use the icons to disguise your <a 45>Spies</a>. To do this, select one or more of your Spies and <b>left-click</b> on the colour you want them to become. They will then disguise themselves and you can use them against the Enemy.<r><r>In multiplayer games, you can ally with another player. If you hold down Shift and <b>left-click</b> on the player's Enemy Tribe Icon, it will become inverted. Then, all your Followers will ignore that player's Followers unless directly commanded to attack. To completely ally, the other player must also Shift <b>left-click</b> on your Enemy Tribe Icon. If they do not, their Followers will still automatically attack yours.
+<t>Total Followers</t><r><r>The Total Followers section of the Control Panel is closely related to the <a 73>Followers Panel</a>. The first icon is the total number of Followers overall. The red bar indicates how many Followers you have compared to how many your buildings can handle. If the red bar reaches the top, you will have run out of accommodation and you will not breed any more Followers without constructing more Huts. You can only have a maximum population of two hundred Followers. Once this maximum has been reached, you will not be able to breed any more Braves and convert any Wildmen or Enemy Followers. The rest of the icons display how many Followers you currently have of that type.<r><r>The <a 66>Commandee Toggle</a> icon above the Total Followers section toggles the Total Followers numbers between all of those Followers on the world and all of the Followers visible on the screen. For example, if you turn the Commandee Toggle on, you will only be able to select those Braves immediately near you. If you turn the Commandee Toggle back off, you will be able to select all the Braves on the world. This can be very useful if the only Followers you want to select are the Followers from a certain part of the world.<r><r>To select one type of Follower, <b>left-click</b> on the icon. To select five Followers of a type, hold down <b>Ctrl</b> and <b>left-click</b> on the icon. To select all the Followers of a type, hold down <b>Shift</b> and <b>left-click</b> on the icon. To zoom to and cycle through all the Followers of a type, <b>right-click</b> on the icon.
+<t>Buildings Panel</t><r><r>The Buildings Panel lists all the <a 12>buildings</a> currently available for you to construct. To select a building, <b>left-click</b> on the icon. To zoom to and cycle through all the buildings of that type, <b>right-click</b> on the icon. If there is a question mark icon on the panel, it means that the building is hidden on the level either in a <a 6>Stone Head</a> or a <a 7>Vault of Knowledge</a>.
+<t>Spells Panel</t><r><r>The Spells Panel lists all the <a 22>Spells</a> currently available for you to cast. To select a spell, <b>left-click</b> on the icon. Each spell uses <a 75>Mana</a> and needs to be charged before you can use it. The blue bar on the icon indicates how much more Mana you currently have saved in that spell. This bar needs to be filled before you can cast the spell.<r><r> The dots on the icon indicate the maximum number of shots of the spell you can have charged at once. As each spell finishes charging, a blue dot will appear on the icon and you will be able to cast that spell. One Shot spells, given by the Stone Heads, are shown by red dots. More powerful spells take longer to charge so you can prevent a spell from charging by <b>Right Clicking</b> on its icon. This means that more Mana will be available for other spells, increasing their charge rate. To toggle all the spells on or off, hold down <b>Shift</b> and <b>right-click</b> on any icon. If you hold down <b>Ctrl</b> and <b>right-click</b> on a spell's icon, you will toggle all except that spell on or off.<r><r>If there is a question mark icon on the panel, it means that the spell is hidden on the level either in a <a 6>Stone Head</a> or a <a 7>Vault of Knowledge</a>.The Spells Panel is also used for the <a 77>Forge World</a> option, if it is chosen at the start of multiplayer games.
+<t>Followers Panel</t><r><r>The Followers Panel is a table of all your Followers performing various tasks. The first line lists Followers currently selected. The second line lists those Followers who are not currently working. The third line lists Followers in buildings. The fourth line lists those Followers working, such as constructing or <a 54>guarding</a>. The fifth and sixth lines are different and list those <a 10>Boats</a> and <a 11>Balloons</a> with Followers inside. If you select a Follower in a vehicle, you also select the vehicle, therefore each column shows the number of vehicles with at least one of that type of Follower inside.<r><r>You can perform any of the following selections on a icon with a number on. To select one of the type, <b>left-click</b> on the icon. To select five of a type, hold down <b>Ctrl</b> and <b>left-click</b> on the icon. To select all of a type, hold down <b>Shift</b> and <b>left-click</b> on the icon. To zoom to and cycle through all, <b>right-click</b> on the icon.
+Information on this item is unavailable because you haven't discovered it yet.
+<t>Mana</t><r><r>Mana is an ethereal force created by your Followers. With it you can charge up any of your <a 22>spells</a> and train your Followers. <a 41>Braves</a> create Mana when working or resting in <a 13>Huts</a>. See the <a 72>Spells Panel</a> for more information on how to use Mana to your advantage.
+<t>Spell Charge Rate</t><r><r>The Spell Charge Rate bar shows the rate at which your spells are begin charged with <a 75>Mana</a>. The lower the white bar, the longer your spells will take to charge and the longer your Followers will take to train. You can increase the rate by charging fewer spells, training fewer Followers, giving work to idle Followers or breeding more <a 41>Braves</a>.<r><r>If the bar rises into the green, your spells are charging at the maximum rate.<r><r>If the bar flashes red, you are wasting mana and should charge up some of your inactive spells.To learn more about charging spells, see the <a 72>Spells Panel</a> section.
+<t>Forge World Panel and Spells</t><r><r>The Forge World option is only available at the start of multiplayer games. If the option is selected, you are given a number of Single Shot Spells at your command, each explained below, to mould the world before to battle commences. The Shaman is not present during this time so you can cast the spells anywhere on the world. A clock in the corner of the screen counts the time before the game starts.<r><r>You can also raise and lower small areas of the landscape. To raise land, hold down <b>Alt</b> and <b>left-click</b>. To lower land, hold down <b>Alt</b> and <b>right-click</b>.<r><r><a 78>Erode</a><r><r><a 79>Flatten</a><r><r><a 80>Landbridge</a><r><r><a 81>Hill</a><r><r><a 82>Valley</a><r><r><a 83>Raise</a><r><r><a 84>Lower</a><r><r><a 85>Wildmen</a><r><r><a 86>Trees</a>
+<t>Erode</t><r><r>The Erode spell accelerates time and reshapes the earth as if a thousand years of rain and snow were weathering and reshaping the landscape.<r><r><b>To Use:</b> <b>Left-click</b> to select the Erode spell from the <a 77>Forge World Panel</a> and move the mouse pointer to where you want to target the spell. <b>Left-click</b> to fire.<r><r>
+<t>Flatten</t><r><r>Flatten is a powerful land-altering spell which, when cast on a piece of land, will spread out and level the land around to the same height as the point it was cast on.<r><r><b>To Use:</b> <b>Left-click</b> to select the Flatten spell from the <a 77>Forge World Panel</a> and move the mouse pointer to where you want to target the spell. <b>Left-click</b> to fire.<r><r>
+<t>Landbridge</t><r><r>The Landbridge spell evens out the land from a point at the bottom of your screen to where it is cast. You can use the spell to create causeways across otherwise impassible rivers or to level towering mountains.<r><r><b>To Use:</b> <b>Left-click</b> to select the Landbridge spell from the <a 77>Forge World Panel</a>. Rotate and move the land so that the spot from where you want to cast the spell is at the bottom of the screen. Move the mouse pointer to where you want to target the spell and <b>left-click</b> to fire.<r><r>
+<t>Hill</t><r><r>This spell creates a small, dome-shaped hill where it is cast.<r><r><b>To Use:</b> <b>Left-click</b> to select the Hill Spell from the <a 77>Forge World Panel</a> and move the mouse pointer to where you want to target the spell. <b>Left-click</b> to fire.<r><r>
+<t>Valley</t><r><r>Valley creates a bowl-like depression in the land where it is cast.<r><r><b>To Use:</b> <b>Left-click</b> to select the Valley spell from the <a 77>Forge World Panel</a> and move the mouse pointer to where you want to target the spell. <b>Left-click</b> to fire.<r><r>
+<t>Raise</t><r><r>Raise slowly elevates the area of land where the spell was cast.<r><r><b>To Use:</b> <b>Left-click</b> to select the Raise spell from the <a 77>Forge World Panel</a> and move the mouse pointer to where you want to target the spell. <b>Left-click</b> to fire.<r><r>
+<t>Lower</t><r><r>Lower causes the area of land where the spell was cast to slowly sink.<r><r><b>To Use:</b> <b>Left-click</b> to select the Lower spell from the <a 77>Forge World Panel</a> and move the mouse pointer to where you want to target the spell. <b>Left-click</b> to fire.<r><r>
+<t>Wildmen</t><r><r>This spell creates some <a 9>Wildmen</a> wherever it is cast.<r><r><b>To Use:</b> <b>Left-click</b> to select the Wildmen spell from the <a 77>Forge World Panel</a> and move the mouse pointer to where you want to target the spell. <b>Left-click</b> to fire.<r><r>
+<t>Trees</t><r><r>This spell creates some <a 3>Trees</a> wherever it is cast.<r><r><b>To Use:</b> <b>Left-click</b> to select the Trees spell from the <a 77>Forge World Panel</a> and move the mouse pointer to where you want to target the spell. <b>Left-click</b> to fire.<r><r>
+<t>Obelisk</t><r><r>Obelisks are similar to <a 8>Totem Poles</a> but can only be worshipped by the Shaman. If you <b>right-click</b> on the Obelisk, you will see that only the Shaman is required to worship it.<r><r>To worship an Obelisk, select the Shaman and <b>left-click</b> on the stone. If you <b>right-click</b> on the stone again, you will see a red line next to the Shaman icon and this indicates how long it will take.
+Production
+Executive Producer
+Producer
+Project Leader
+Associate Producer
+Team Administration
+Design
+Game Designed by
+Level Designers
+Assistant Level Designers
+Additional Level Design
+Multiplayer Level Designers
+Additional Multiplayer Level Design
+Associate Producer - Level Design
+Scripting
+Tooltip Text
+Encyclopaedia Text
+Programming
+Lead Programmer
+Game Programming
+AI Programming
+Additional AI Programming
+Network Programming
+Network & Internet Library Programming
+Network Library Programming
+Additional Programming
+Direct3D Programming
+Localisation Programming
+Solar System Programming
+Rolling Demo
+Front End Programming
+Engine Created by
+Art
+Lead Artists
+Artists
+Additional Artwork
+FMV
+Story
+Writers
+FMV
+Audio
+Audio Producer
+Music Composers
+Additional Music Composer
+Sound Design
+Sound Programmer
+Sound Library and Tools
+Voice Over Artists
+Voice Over Casting
+Installer
+Associate Producer
+Programming
+Additional Programming
+Artwork
+Quality Assurance
+QA Project Lead
+Head of QA
+QA Team
+Additional QA
+Config Supervisor
+Config Assistant
+Marketing
+Marketing Manager
+Product Manager
+Studio Marketing
+Manual and Packaging
+Manual Writer
+Documentation Layout Manager
+Documentation Editor
+Packaging Design
+Packaging Illustration
+Packaging Concept
+Packaging Copywriter
+Localisation
+Associate Producer
+Localisation Project Manager
+LPM Assistant
+Localisation Audio Management
+Far East Co-ordinator
+French Localisation
+German Localisation
+Spanish Localisation
+Swedish Localisation
+Italian Localisation
+Dutch Localisation
+Polish Localisation
+Russian Localisation
+Chinese Localisation
+Japanese Localisation
+Translation Co-ordination (Documentation)
+Product Support Manager Europe
+Translators
+Language Test Supervisor
+Language Testers
+Populous Webteam
+Web Team Associate Producer
+Website Management
+Website Scripting
+Website Creation
+Screensaver
+PR
+Technical Support
+Finance
+Legal
+Administration
+Management
+Special Thanks
+Thanks To
+Spell not available in the demo.
+Building not available in the demo.
+Flyby Cancelled
+%s Tribe Icon.
+Quicksave
+Automatic Win Game Save
+Quit Game?
+Cast the Armageddon spell to stage a final battle between all the tribes on this world. Make sure you are prepared, Shaman.
+Shaman, you are wasting Mana that you could use to charge up other spells. Right-click on a spell's icon to begin charging it.
+This world is yours.
+You have failed to conquer this world.
+A Stone Head has appeared.
+Quit Level
+Your Spell Charge Rate is too low, Shaman. Right-click and turn off some spell icons to increase the charge rate for your more essential spells. See the Encyclopaedia for more information.
+Not Available in Demo Version.
+Connected
+Failed: Timed out
+Failed: Setup failed
+Disconnected
+Failed: No answer
+Failed: Busy line
+Failed: No dialling tone
+Failed: Error
+Accepting connection...
+Dialling...
+Looking for sessions...
+Connecting...
+Looking up hostname
+Failed: Could not resolve hostname
+Network Problem - Game Resynchronised
+Network Problem - Game Aborted
+Restart Level?
+Quit Level?
+Quit?
+Unable to locate the Populous: The Beginning CD in any CD Drive.
+Can't Build, Too Far: Your Plan is too far from other buildings.
+Information: {}display helpful information. Shift+|}delete message.
+Move the mouse pointer to the edge of the screen to scroll and use the Cursor Keys to rotate.
+Welcome to Populous: The Beginning. You can leave this tutorial by pressing the Esc key and choosing Quit Level.
+This is the World View. Use the Cursor Keys to rotate and right-click anywhere or press Return to zoom in. You can press Return at any time to come back to the World View.
+Worshipping Totem Poles or Obelisks benefit you in a variety of ways. To command the Shaman to worship an Obelisk left-click on it.
+This is the Shaman. Left-click on her directly to select her, or left-click on the Shaman Button on the Control Panel. Right-click when you want to deselect her.
+Well done. You have completed the Tutorial.
+My settlement will be complete with the creation of my Reincarnation Site.
+We face a great threat. The Matak are massing against us. I need the power of Lightning to defeat them.
+You have gained a Single Shot Firestorm spell. Cast it on the Enemy to unleash a rain of fire.
+Swamp creates a deep bog that will swallow ten followers of any tribe when they step onto it. Shift right-click on your own Swamps to delete them.
+Landbridge is as powerful over land as it is over water, Shaman. Use it to level more land for your settlements.
+Use the Hypnotise spell to convert Enemy Followers to your cause. But beware, the effects will fade with time.
+The Dakini have trapped me in this magical prison and I cannot escape. I must command my Followers to free me or we are all doomed.
+None of my followers could accompany me to this world. I am alone and I shall need all my strength and cunning to survive. 
+No Guest Spells on this level
+Worshipping Obelisks benefit you in a variety of ways. To command the Shaman to worship an Obelisk, select the Shaman and left-click on the Obelisk.
+You have built the maximum number of buildings and you cannot build any more.
+Searching Local Subnet
+Searching Address Book - looking for %s
+No Games Found
+Refresh
+Sound quality
+Winsock TCP/IP Internet Connection
+Head-To-Head Modem Connection
+The Journey Begins
+Eye of the Storm
+Under Fire
+Multiple Choice
+ Learn about the power of the Shaman, how to cast spells and use them against the enemy.
+ Discover how to build and construct defences.
+ Learn how to control your followers and destroy the enemy forces.
+Welcome to Populous: The Beginning
+This world is yours to conquer, Shaman, and your enemy is weak.
+- Build up a thriving settlement.
+- Gain the power to create bridges of land.
+- Gain the devastating Lightning spell.
+- Obtain the ability to train Warriors.
+- Crush the Dakini tribe.
+- Convert the Wildmen to increase your tribe.
+- Train mighty Warriors.
+- Enter the Vault of Knowledge to gain permanent powers.
+- Use faith to turn the enemy to your side.
+- Lay waste to the Matak settlement.
+- Train your followers and guard your settlement.
+- Storm the enemy and enter the Vault of Knowledge.
+- Use your spells to surprise the enemy.
+- Destroy the Dakini and conquer the world.
+Features
+Seeing is believing!
+- Real-time 3D game world
+- 360 degree rotation
+- Truly earth-shattering spell powers
+- 25 Levels
+- Full Direct 3D support
+- Wreak havoc on the enemy with your spells and use your divine power to shape the land
+- Use your divine power to shape the land
+- In-depth tutorial and Encyclopaedia
+- Fog of War
+- Combine followers and buildings to create specialised defences
+22 awesome spells, including:
+- Lightning
+- Swarm
+- Hypnotism
+- Erode
+- Firestorm
+- Earthquake
+- And the mighty Volcano
+Vehicles and followers:
+- Faithful Braves
+- Warriors
+- Preachers
+- Firewarriors
+- Spies
+- Command Boats and Balloons
+Multiplayer Features
+- Up to 4 players
+- 15 maps
+- Matchmaking server on the Bullfrog website (www.populous.net)
+- League system on Bullfrog Matchmaker
+- Unique multiplayer spells
+- Fully customisable Shaman kill limits, building lists and spell lists
+- Player selectable Fog of War
+- Unique 'Forge World' feature allows instant map modification before battle
+I have had a disturbing vision. The Matak Tribe turned my own Followers against me when I attacked! I must use my spells wisely if I am to conquer this enemy.
+I sense a Dakini settlement nearby and they have a powerful defence against us; mighty Followers known as Firewarriors! There must be more than one way into their settlement...
+Your settlement is too small, Shaman. Try building some more Huts.
+Cast Shield on your Followers and make them invulnerable to enemy attacks.
+Firewarriors are special Followers who can blast the enemy from a distance. Build a Firewarrior Training Hut to train some.
+Well Done! You've completed the Populous: The Beginning Demo.
+This demo is just a taster of the huge range features available in the full game:
+- Play against up to three enemy Shamans
+- Incredible new spells such as Erode, Volcano and the Angel of Death
+- A full customisable multiplayer game with up to four players over the Internet
+- Play specials levels in a race against time!
+- Learn new strategies with more advanced followers
+- Destroy the enemy with Boats and Balloons
+- Conquer twenty-five worlds and achieve your destiny - become a god!
+- Radically improved sound and music. Demo does not contain ambient sounds and dynamic music.
+Populous: The Beginning will be available around the globe mid-November 1998.
+For more information, visit the Populous: The Beginning website at www.populous.net
+Version
+Failed: Version mismatch
