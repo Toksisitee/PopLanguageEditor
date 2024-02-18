@@ -11,7 +11,7 @@ namespace PopLanguageEditor
     public partial class MainWindow : Window
     {
         static public int VersionMajor = 1;
-        static public int VersionMinor = 0;
+        static public int VersionMinor = 1;
         static public int VersionPatch = 0;
         private string EditorName = "PopLanguageEditor v" + VersionMajor + "." + VersionMinor + "." + VersionPatch;
         private const string IDS_FILE = "ids.txt";
