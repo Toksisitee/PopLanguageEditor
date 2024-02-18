@@ -348,7 +348,8 @@ namespace PopLanguageEditor
             return;
         }
 
-        private void searchBox_TextChanged(object sender, System.Windows.Controls.TextChangedEventArgs e)
+
+        private void FilterEntries()
         {
             if ((bool)searchNone.IsChecked)
             {
@@ -381,43 +382,14 @@ namespace PopLanguageEditor
             }
         }
 
+        private void searchBox_TextChanged(object sender, System.Windows.Controls.TextChangedEventArgs e)
+        {
+            FilterEntries();
+        }
+
         private void searchNone_Click(object sender, RoutedEventArgs e)
         {
-            if ((bool)searchNone.IsChecked)
-            {
-                grid.ItemsSource = Language;
-                return;
-            }
-
-            if ((bool)searchLine.IsChecked)
-            {
-                FilterByLine();
-                return;
-            }
-
-            if ((bool)searchByID.IsChecked)
-            {
-                FilterByID();
-                return;
-            }
-
-            if ((bool)searchByText.IsChecked)
-            {
-                FilterByText();
-                return;
-            }
-
-            if ((bool)searchByOriginal.IsChecked)
-            {
-                FilterByOriginal();
-                return;
-            }
-
-            if ((bool)searchIDsOnly.IsChecked)
-            {
-                FilterOnlyIDs();
-                return;
-            }
+            FilterEntries();
         }
 
         private void OpenCommand_Executed(object sender, ExecutedRoutedEventArgs e)
