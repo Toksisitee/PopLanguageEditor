@@ -14,6 +14,8 @@ namespace PopLanguageEditor
         static public int VersionMinor = 0;
         static public int VersionPatch = 0;
         private string EditorName = "PopLanguageEditor v" + VersionMajor + "." + VersionMinor + "." + VersionPatch;
+        private const string IDS_FILE = "ids.txt";
+        private const string TEXT_FILE = "text.txt";
 
         public class LangEntry
         {
@@ -71,19 +73,16 @@ namespace PopLanguageEditor
                 data.Add(new LangCache { ID = n, Text = line });
             }
 
-            string filename = "ids.txt";
-            string filename2 = "text.txt";
+            if (File.Exists(IDS_FILE))
+                File.Delete(IDS_FILE);
+            if (File.Exists(TEXT_FILE))
+                File.Delete(TEXT_FILE);
 
-            if (File.Exists(filename))
-                File.Delete(filename);
-            if (File.Exists(filename2))
-                File.Delete(filename2);
-
-            using StreamWriter file = new StreamWriter(filename);
+            using StreamWriter file = new StreamWriter(IDS_FILE);
             foreach (var entry in data)
                 file.WriteLine(entry.ID);
 
-            using StreamWriter file2 = new StreamWriter(filename2);
+            using StreamWriter file2 = new StreamWriter(TEXT_FILE);
             foreach (var entry in data)
                 file2.WriteLine(entry.Text);
 
@@ -94,10 +93,8 @@ namespace PopLanguageEditor
         List<LangCache> LoadCache()
         {
             List<LangCache> data = new List<LangCache>();
-            string filename = "ids.txt";
-            string filename2 = "text.txt";
-            string[] lines = File.ReadAllLines(filename);
-            string[] lines2 = File.ReadAllLines(filename2);
+            string[] lines = File.ReadAllLines(IDS_FILE);
+            string[] lines2 = File.ReadAllLines(TEXT_FILE);
             for (int i = 0; i < lines.Length; i++)
             {
                 data.Add(new LangCache { ID=Int16.Parse(lines[i]), Text=lines2[i] });
@@ -229,6 +226,14 @@ namespace PopLanguageEditor
         {
             InitializeComponent();
             this.Title = EditorName;
+            if (!File.Exists(IDS_FILE))  {
+                MessageBox.Show("Missing file: " + IDS_FILE, EditorName, MessageBoxButton.OK, MessageBoxImage.Error);
+                System.Environment.Exit(1);
+            }
+            if (!File.Exists(TEXT_FILE)) {
+                MessageBox.Show("Missing file: " + TEXT_FILE, EditorName, MessageBoxButton.OK, MessageBoxImage.Error);
+                System.Environment.Exit(1);
+            }
             LoadCfg();
             LoadLanguageFile(FileLoaded);
         }
@@ -404,7 +409,7 @@ namespace PopLanguageEditor
 
         private void About_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Copyright © 2022 Toksisitee (https://github.com/Toksisitee)" +
+            MessageBox.Show("Copyright © 2022-2024 Toksisitee (https://github.com/Toksisitee)" +
                 Environment.NewLine + Environment.NewLine +
                 "PopLanguageEditor is free software: you can redistribute it and / or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. PopLanguageEditor is distributed in the hope that it will be useful,but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. You should have received a copy of the GNU General Public License along with this program. If not, see <https://www.gnu.org/licenses/>.",
                 EditorName, MessageBoxButton.OK, MessageBoxImage.Information); 
